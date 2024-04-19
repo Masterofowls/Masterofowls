@@ -1,4 +1,4 @@
-<h1 align="center"> Hola! My name is Daniil, but I mostly prefer to be called Daniel 😊. <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center"> Hola! My name is Daniil, but I mostly prefer to be called Daniel 😊. <a href="https://daniilshat.ru/" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Right now, I am studying such things as JavaScript, Html and ReactJs, but also learning Python on my own. 
 Despite this, as a hobby, I enjoy practising Unreal Engine 5 with additional modules using BluePrint and MetaHuman.
