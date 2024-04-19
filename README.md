@@ -13,5 +13,5 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=>>>+Ready+To+Connect+>>>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=red&lines=>>>+Ready+To+Connect+>>>)](https://git.io/typing-svg)
 
