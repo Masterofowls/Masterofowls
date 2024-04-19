@@ -15,3 +15,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=red&lines=>>>+Ready+To+Connect+>>>)](https://git.io/typing-svg)
 
+
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
