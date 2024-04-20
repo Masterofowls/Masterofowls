@@ -13,7 +13,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=red&lines=>>>+Ready+To+Connect+>>>)](https://git.io/typing-svg)
+
 
 
 
@@ -46,7 +46,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-
+<h2 align="center"> 🐊My contacts🐊 </h2>
 
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/daniel-shtarkman-938562271/">
@@ -55,5 +55,10 @@
   <a href="https://t.me/masterofowls">
     <img src="https://shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+ <a href="https://discord.com/channels/maestroofowls">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord"/>
+  </a>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=red&lines=>>>+Ready+To+Connect+>>>)](https://git.io/typing-svg)
 
