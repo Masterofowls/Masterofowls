@@ -62,3 +62,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=red&lines=>>>+Ready+To+Connect+>>>)](https://git.io/typing-svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masterofowls&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
