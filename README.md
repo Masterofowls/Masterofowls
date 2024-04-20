@@ -3,7 +3,7 @@
 <ul>
  <li>Right now, I am studying such things as JavaScript, Html and ReactJs, but also learning Python on my own. </li>
  <li>Despite this, as a hobby, I enjoy practising Unreal Engine 5 with additional modules using BluePrint and MetaHuman. </li>
- <li>My native language is Russian, but I have high English skills as well. </li>
+ <li>My native language is Russian, but I have high-level English skills as well. </li>
  <li>Interested in making apps, programms and websites for different platforms, such as Windows, Linux and Android. </li>
  <li>Dreaming of creating my own large-scale video game 🐲</li>
 </ul>
