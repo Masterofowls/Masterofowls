@@ -56,7 +56,7 @@
     <img src="https://shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
  <a href="https://discord.com/channels/maestroofowls">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
