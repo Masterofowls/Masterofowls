@@ -82,9 +82,7 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 40px;">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=red&lines=>>>+Ready+To+Connect+>>>)](https://git.io/typing-svg)
-</div>
+
 
 <h2 align="center" style="border: none; margin-top: 40px; margin-bottom: 20px;">My GitHub Stats</h2>
 
