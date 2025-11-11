@@ -35,7 +35,7 @@
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,java,cpp&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,cpp&theme=dark&perline=7" />
 </p>
 
 ### 🚀 Frameworks & Libraries
