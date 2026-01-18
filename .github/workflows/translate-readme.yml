@@ -25,7 +25,7 @@ jobs:
           
       - name: Install dependencies
         run: |
-          pip install deep-translator googletrans==4.0.0rc1
+          pip install deep-translator
           
       - name: Translate README
         run: |
@@ -46,8 +46,14 @@ jobs:
               try:
                   translator = GoogleTranslator(source='auto', target=target_lang)
                   return translator.translate(text)
+              except ValueError as e:
+                  print(f"Translation value error for '{text[:30]}...': {e}")
+                  return text
+              except ConnectionError as e:
+                  print(f"Translation connection error: {e}")
+                  return text
               except Exception as e:
-                  print(f"Translation error: {e}")
+                  print(f"Translation unexpected error for '{text[:30]}...': {type(e).__name__} - {e}")
                   return text
           
           def process_readme(content, target_lang, output_file):

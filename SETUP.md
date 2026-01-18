@@ -71,7 +71,7 @@ You can manually trigger workflows from the Actions tab:
 - **Activity Graph**: [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 - **Trophies**: [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 - **Typing SVG**: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-- **WakaTime**: [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+- **WakaTime**: [waka-readme (athul)](https://github.com/athul/waka-readme)
 - **Snake Animation**: [snk](https://github.com/Platane/snk)
 
 ## 🔄 Update Frequency
@@ -95,3 +95,11 @@ If workflows fail:
 - WakaTime stats require the WakaTime plugin to be actively tracking your coding time
 - Translation quality may vary and can be manually improved
 - Profile views counter updates automatically
+
+## 🔒 Security Considerations
+
+- Never commit secrets or API keys directly in files
+- Use GitHub Secrets for sensitive information (like WAKATIME_API_KEY)
+- Review external links and ensure they don't expose sensitive information
+- Consider using a dedicated portfolio website or PDF for detailed resumes instead of services with long access tokens
+- Regularly review and rotate access tokens if used in public repositories
