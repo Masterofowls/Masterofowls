@@ -29,7 +29,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: Masterofowls
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
