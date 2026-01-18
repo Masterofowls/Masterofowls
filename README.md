@@ -9,7 +9,7 @@
 [![Chinese](https://img.shields.io/badge/CN-中文-00D9FF?style=flat-square&labelColor=0D1117)](README.zh-CN.md)
 [![Japanese](https://img.shields.io/badge/JP-日本語-00D9FF?style=flat-square&labelColor=0D1117)](README.ja.md)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Даниил+Штаркман;Junior+Fullstack%2FBackend+Developer;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Django+%7C+FastAPI;4+Years+of+Web+Development+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Даниил+Штаркман;Junior+Web+Developer;Fullstack+%7C+Backend+%7C+Frontend;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Django+%7C+FastAPI;Responsive+%26+Mobile-First+Design" alt="Typing SVG" />
 
 </div>
 
@@ -40,9 +40,10 @@
 ```typescript
 const developer = {
   name: "Даниил Штаркман",
-  role: "Junior Fullstack/Backend Developer",
+  role: "Junior Web Developer (Fullstack/Backend)",
   location: "Saint Petersburg, Russia",
   experience: "4 years",
+  specialization: "Web Development",
   education: {
     current: "IT College Hexlet (3rd year) - Web Development",
     completed: "Computer Academy STEP - QA Testing"
@@ -50,6 +51,7 @@ const developer = {
   lookingFor: [
     "Junior/Trainee positions",
     "Backend Developer",
+    "Frontend Developer",
     "QA Tester",
     "DevOps Engineer"
   ],
@@ -63,7 +65,14 @@ const developer = {
 };
 ```
 
-Мотивированный студент 3-го курса с **4-летним опытом** веб-разработки. Специализируюсь на создании полноценных, высокопроизводительных приложений. Имею практический опыт в полном цикле разработки: от проектирования API и написания кода до настройки CI/CD, контейнеризации и Linux-администрирования.
+Мотивированный студент 3-го курса с **4-летним опытом** веб-разработки. Специализируюсь на создании **адаптивных, кроссбраузерных веб-приложений** с полноценным функционалом и высокой производительностью. Имею практический опыт в полном цикле разработки: от проектирования **responsive UI/UX** и написания кода до настройки CI/CD, контейнеризации и Linux-администрирования.
+
+### 📱 Responsive & Adaptive Development
+Разрабатываю веб-приложения с **полной адаптацией** под различные устройства и разрешения экранов:
+- **Desktop** (1920px+): Полнофункциональный интерфейс с расширенными возможностями
+- **Tablet** (768px-1024px): Адаптированная навигация и оптимизированный контент
+- **Mobile** (320px-767px): Mobile-first подход, touch-friendly интерфейсы
+- **Cross-browser compatibility**: Chrome, Firefox, Safari, Edge
 
 ---
 
@@ -75,18 +84,18 @@ const developer = {
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0D1117)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0D1117)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=0D1117)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0D1117)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-00D9FF?style=for-the-badge&logo=responsive&logoColor=white&labelColor=0D1117)
 
-**Key Skills:** ES6+, Async Programming, Hooks, Context API, SSR, SSG, App Router
+**Key Skills:** ES6+, Async Programming, Hooks, Context API, SSR, SSG, App Router, Responsive Web Design, Mobile-First Development
 
 </div>
 
@@ -329,15 +338,27 @@ const developer = {
 ```python
 class CareerObjectives:
     def __init__(self):
-        self.seeking = "Junior/Trainee Developer Position"
+        self.seeking = "Junior/Trainee Web Developer Position"
         self.location = "Saint Petersburg, Russia"
         self.work_format = ["Remote", "Hybrid"]
+        self.focus = "Web Development"
         
     def preferred_roles(self):
         return [
+            "🌐 Frontend Developer",
             "🐍 Backend Developer",
+            "💻 Fullstack Developer",
             "🧪 QA Tester", 
             "🚀 DevOps Engineer"
+        ]
+    
+    def technical_strengths(self):
+        return [
+            "Responsive & Adaptive Design",
+            "Mobile-First Development",
+            "Cross-Browser Compatibility",
+            "API Development & Integration",
+            "CI/CD & Deployment"
         ]
     
     def personal_qualities(self):
