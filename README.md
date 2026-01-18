@@ -1,266 +1,396 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=4000&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+👋;I'm+Daniel!+😊;Full-Stack+Developer;Game+Development+Enthusiast" alt="Typing SVG" />
-</p>
-
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&animation=fadeIn&section=header&text=Welcome!&fontAlign=70&fontSize=50)
-  
-</div>
 
-<div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  
-</div>
+<!-- Language Selection -->
+[![Russian](https://img.shields.io/badge/RU-Русский-00D9FF?style=flat-square&labelColor=0D1117)](README.md)
+[![English](https://img.shields.io/badge/EN-English-00D9FF?style=flat-square&labelColor=0D1117)](README.en.md)
+[![Spanish](https://img.shields.io/badge/ES-Español-00D9FF?style=flat-square&labelColor=0D1117)](README.es.md)
+[![German](https://img.shields.io/badge/DE-Deutsch-00D9FF?style=flat-square&labelColor=0D1117)](README.de.md)
+[![French](https://img.shields.io/badge/FR-Français-00D9FF?style=flat-square&labelColor=0D1117)](README.fr.md)
+[![Chinese](https://img.shields.io/badge/CN-中文-00D9FF?style=flat-square&labelColor=0D1117)](README.zh-CN.md)
+[![Japanese](https://img.shields.io/badge/JP-日本語-00D9FF?style=flat-square&labelColor=0D1117)](README.ja.md)
 
-## 🎯 About Me
-
-👋 Hi! I'm Daniel (he/him)  
-💻 Full-Stack Developer passionate about JavaScript, TypeScript, and Python  
-🎮 Game Development Enthusiast working with Unreal Engine 5  
-🎯 Currently mastering React & Unreal Engine 5  
-🐲 Goal: Create amazing large-scale video games  
-💭 *"Turning coffee into code and dreams into reality"*
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Даниил+Штаркман;Junior+Web+Developer;Fullstack+%7C+Backend+%7C+Frontend;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Django+%7C+FastAPI;Responsive+%26+Mobile-First+Design" alt="Typing SVG" />
 
 </div>
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,cpp&theme=dark&perline=7" />
-</p>
-
-### 🚀 Frameworks & Libraries
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,express,nextjs,nestjs,tailwind,sass&theme=dark&perline=9" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase,firebase,aws,gcp,azure&theme=dark&perline=8" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,figma,linux,raspberrypi,arduino,vercel,netlify&theme=dark&perline=9" />
-</p>
-
-### 🎮 Creative & Game Dev
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,unreal,ae,pr&theme=dark&perline=4" />
-  <br>
-  <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaHuman-000000?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blueprint-2C5AA0?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-</p>
-
-## 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <a href="http://www.github.com/Masterofowls">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Masterofowls&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=4ECDC4" alt="Masterofowls's GitHub stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Masterofowls">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterofowls&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<a href="https://github.com/Masterofowls">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Masterofowls&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
-</a>
-
-<a href="https://github.com/Masterofowls">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Masterofowls&custom_title=Daniel's%20GitHub%20Activity&bg_color=0D1117&color=FFD700&line=4ECDC4&point=FFFFFF&area=true&hide_border=true" />
-</a>
+[![GitHub followers](https://img.shields.io/github/followers/Masterofowls?style=for-the-badge&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/Masterofowls)
+[![Profile Views](https://komarev.com/ghpvc/?username=Masterofowls&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/Masterofowls)
+[![Years of Experience](https://img.shields.io/badge/Experience-4+_Years-00D9FF?style=for-the-badge&labelColor=0D1117)](https://github.com/Masterofowls)
 
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## 👨‍💻 Contact Information
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Masterofowls&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+| 📍 Location | 📧 Email | 📱 Phone | 💬 Telegram | 🔗 GitHub |
+|------------|----------|----------|-------------|-----------|
+| Санкт-Петербург, Россия | [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | +7 (900) 351-39-35 | [@froggytalents](https://t.me/froggytalents) | [Masterofowls](https://github.com/Masterofowls) |
 
 </div>
 
-## 🎮 Current Projects & Focus
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50" height="50" alt="Unreal Engine" />
-      <br>
-      <strong>Game Development</strong>
-      <br>
-      <sub>Unreal Engine 5</sub>
-      <br>
-      <sub>Blueprint & MetaHuman</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
-      <br>
-      <strong>Web Development</strong>
-      <br>
-      <sub>React & Next.js</sub>
-      <br>
-      <sub>Full-Stack Apps</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-      <br>
-      <strong>Python Mastery</strong>
-      <br>
-      <sub>Advanced Scripting</sub>
-      <br>
-      <sub>Automation & AI</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-      <br>
-      <strong>DevOps</strong>
-      <br>
-      <sub>Containerization</sub>
-      <br>
-      <sub>CI/CD Pipelines</sub>
-    </td>
-  </tr>
-</table>
+## 💼 Professional Summary
 
-## 📈 Weekly Development Breakdown
-```text
-🟨 JavaScript   14 hrs  ██████████████░░░░░░░   70%
-🟦 Python       4 hrs   ████░░░░░░░░░░░░░░░░░   20%
-🟩 HTML/CSS     1 hr    █░░░░░░░░░░░░░░░░░░░░   5%
-🟪 Other        1 hr    █░░░░░░░░░░░░░░░░░░░░   5%
+```typescript
+const developer = {
+  name: "Даниил Штаркман",
+  role: "Junior Web Developer (Fullstack/Backend)",
+  location: "Saint Petersburg, Russia",
+  experience: "4 years",
+  specialization: "Web Development",
+  education: {
+    current: "IT College Hexlet (3rd year) - Web Development",
+    completed: "Computer Academy STEP - QA Testing"
+  },
+  lookingFor: [
+    "Junior/Trainee positions",
+    "Backend Developer",
+    "Frontend Developer",
+    "QA Tester",
+    "DevOps Engineer"
+  ],
+  workFormat: ["Remote", "Hybrid"],
+  characteristics: [
+    "Responsible and proactive",
+    "Strong time management",
+    "Fast learner",
+    "Team player"
+  ]
+};
 ```
 
-## 🌟 Featured Projects
+Мотивированный студент 3-го курса с **4-летним опытом** веб-разработки. Специализируюсь на создании **адаптивных, кроссбраузерных веб-приложений** с полноценным функционалом и высокой производительностью. Имею практический опыт в полном цикле разработки: от проектирования **responsive UI/UX** и написания кода до настройки CI/CD, контейнеризации и Linux-администрирования.
 
-### 🎮 Game Development
-- **UE5 RPG Framework** - Custom RPG system with Blueprint
-- **MetaHuman Integration** - Advanced character customization
-- **Procedural World Generation** - Dynamic environment creation
+### 📱 Responsive & Adaptive Development
+Разрабатываю веб-приложения с **полной адаптацией** под различные устройства и разрешения экранов:
+- **Desktop** (1920px+): Полнофункциональный интерфейс с расширенными возможностями
+- **Tablet** (768px-1024px): Адаптированная навигация и оптимизированный контент
+- **Mobile** (320px-767px): Mobile-first подход, touch-friendly интерфейсы
+- **Cross-browser compatibility**: Chrome, Firefox, Safari, Edge
 
-### 🌐 Web Applications
-- **Full-Stack E-commerce** - React + Node.js + PostgreSQL
-- **Real-time Chat App** - Socket.io + React
-- **Portfolio Platform** - Next.js + Tailwind CSS
+---
 
-### 🔧 Tools & Utilities
-- **Automation Scripts** - Python productivity tools
-- **CLI Applications** - Node.js command-line tools
-- **API Integrations** - RESTful services development
+## 🛠️ Technical Skills
 
-## 📚 Learning Path
+<details open>
+<summary><b>Frontend & UI/UX</b></summary>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0D1117)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=0D1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-00D9FF?style=for-the-badge&logo=responsive&logoColor=white&labelColor=0D1117)
+
+**Key Skills:** ES6+, Async Programming, Hooks, Context API, SSR, SSG, App Router, Responsive Web Design, Mobile-First Development
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>Backend & API Development</b></summary>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0D1117)
+
+**Key Skills:** RESTful API Design, JWT Authentication, Django REST Framework, Web Scraping, SQL
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>DevOps & Infrastructure</b></summary>
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=0D1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0D1117)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&labelColor=0D1117)
+
+**Key Skills:** CI/CD Pipelines, Containerization, VPS Administration, SSH, SSL/Let's Encrypt, Proxy Configuration
+
+</div>
+
+</details>
+
+<details>
+<summary><b>Testing & Quality Assurance</b></summary>
+
+<div align="center">
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=0D1117)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
+
+**Key Skills:** End-to-End Testing, API Testing, Load Testing, Data Analysis
+
+</div>
+
+</details>
+
+<details>
+<summary><b>Cross-Platform Development</b></summary>
+
+<div align="center">
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=0D1117)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=0D1117)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white&labelColor=0D1117)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white&labelColor=0D1117)
+
+</div>
+
+</details>
+
+---
+
+## 🚀 Key Projects
+
+<div align="center">
 
 <table>
-  <tr>
-    <th>Current</th>
-    <th>Next</th>
-    <th>Future</th>
-  </tr>
-  <tr>
-    <td>
-      • Advanced React Patterns<br>
-      • Unreal Engine C++<br>
-      • Three.js & WebGL
-    </td>
-    <td>
-      • Machine Learning<br>
-      • AWS Certification<br>
-      • Mobile Development
-    </td>
-    <td>
-      • AR/VR Development<br>
-      • Blockchain Apps<br>
-      • Game Studio Setup
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Platform
+**Fullstack** | 2023
+
+**Tech Stack:**
+- Next.js (Frontend)
+- Django REST API (Backend)
+- PostgreSQL (Database)
+- Docker + Nginx (Deployment)
+
+**Achievements:**
+- ✅ Full-featured online store with cart & filters
+- ✅ User authentication with JWT
+- ✅ Role-based access control
+- ✅ Admin panel
+- ✅ VPS deployment with SSL
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Real-time Task Manager
+**Fullstack** | 2023
+
+**Tech Stack:**
+- React (Frontend)
+- FastAPI (Backend)
+- WebSocket (Real-time)
+- Playwright (Testing)
+
+**Achievements:**
+- ✅ Intuitive Drag-and-Drop interface
+- ✅ Real-time data synchronization
+- ✅ Multi-client WebSocket support
+- ✅ End-to-End test coverage
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 College Information Portal
+**Backend** | 2022
+
+**Tech Stack:**
+- Python Backend
+- Docker
+- Ubuntu VPS
+- Nginx
+- GitLab CI/CD
+
+**Achievements:**
+- ✅ Student information system
+- ✅ Automated CI/CD pipeline
+- ✅ Let's Encrypt SSL automation
+- ✅ Production deployment
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Telegram Notification Bot
+**Automation** | 2023
+
+**Tech Stack:**
+- Python
+- Telegram API
+- GitHub Actions CI/CD
+
+**Achievements:**
+- ✅ Automated server notifications
+- ✅ Device communication bridge
+- ✅ Continuous deployment
+- ✅ Real-time alerts
+
+</td>
+</tr>
 </table>
 
-## 📫 Connect With Me
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/yourprofile)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/yourprofile)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.gg/yourserver)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:youremail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0D1117)](https://yourportfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Masterofowls)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Masterofowls&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterofowls&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="Top Languages" />
 
 </div>
-
-## 🎵 Coding Vibes
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile-kohl.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile-kohl.vercel.app/api/view?uid=your_spotify_id&redirect=true)
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Masterofowls&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
-## 📝 Latest Development Notes
+<div align="center">
 
-<!-- DEVLOG:START -->
-- 🔥 Working on - UE5 Multiplayer System
-- 🚀 Learning - Advanced React Performance
-- 🎯 Goal - Release first game prototype by Q2 2024
-- 📖 Reading - "Clean Code" by Robert C. Martin
-<!-- DEVLOG:END -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Masterofowls&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
 
-## 🎨 Fun Facts
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Masterofowls&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+
+</div>
+
+---
+
+## ⚡ Real-time Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Masterofowls/Masterofowls/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Masterofowls/Masterofowls/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Masterofowls/Masterofowls/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🏫 Institution | 📚 Specialization | 📅 Period | 📍 Status |
+|---------------|-------------------|-----------|-----------|
+| **IT Колледж Хекслет** | Web Development | 2023 - Present | 3rd Year Student |
+| **Компьютерная Академия ШАГ** | QA Testing | 2021 - 2022 | Completed |
+
+</div>
+
+---
+
+## 🎯 Career Goals
+
+<div align="center">
+
 ```python
-def about_me():
-    interests = [
-        "Game Development 🎮",
-        "3D Modeling & Animation 🎨", 
-        "Open Source Contributions 🤝",
-        "Tech Meetups & Conferences 🎤",
-        "Coffee & Code ☕️"
-    ]
+class CareerObjectives:
+    def __init__(self):
+        self.seeking = "Junior/Trainee Web Developer Position"
+        self.location = "Saint Petersburg, Russia"
+        self.work_format = ["Remote", "Hybrid"]
+        self.focus = "Web Development"
+        
+    def preferred_roles(self):
+        return [
+            "🌐 Frontend Developer",
+            "🐍 Backend Developer",
+            "💻 Fullstack Developer",
+            "🧪 QA Tester", 
+            "🚀 DevOps Engineer"
+        ]
     
-    current_gear = {
-        "laptop": "Gaming Laptop",
-        "ide": "VS Code + JetBrains Mono",
-        "game_engine": "Unreal Engine 5",
-        "os": ["Windows 11", "Ubuntu", "Android"]
-    }
+    def technical_strengths(self):
+        return [
+            "Responsive & Adaptive Design",
+            "Mobile-First Development",
+            "Cross-Browser Compatibility",
+            "API Development & Integration",
+            "CI/CD & Deployment"
+        ]
     
-    return "Always building something new! 🚀"
+    def personal_qualities(self):
+        return {
+            "responsibility": "Always complete tasks on time",
+            "initiative": "Proactive in team collaboration",
+            "structure": "Effective time and workflow management",
+            "learning": "Strong desire to learn and grow"
+        }
 ```
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mrdaniilsht%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mrdaniilsht@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40froggytalents-00D9FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/froggytalents)
+[![GitHub](https://img.shields.io/badge/GitHub-Masterofowls-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Masterofowls)
+[![Portfolio](https://img.shields.io/badge/Resume-View_Full_CV-00D9FF?style=for-the-badge&logo=readme&logoColor=white&labelColor=0D1117)](https://any.coop/A94vJzyywVay5hRKuq1YHVSEEqsxxkdR2jdYo6R3ytJ1qtfn/resume)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🐊 Thanks for visiting! 🐊
+### 💡 *"Turning ideas into reality, one commit at a time"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Masterofowls&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-⭐️ Feel free to explore my repositories and get in touch!
-
-**Let's create something amazing together! 🚀**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&animation=fadeIn&section=footer&fontAlign=70)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&fontAlignY=70&animation=twinkling" />
 
 </div>
