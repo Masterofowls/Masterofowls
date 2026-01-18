@@ -1,0 +1,135 @@
+name: Translate README
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install deep-translator googletrans==4.0.0rc1
+          
+      - name: Translate README
+        run: |
+          python - <<'EOF'
+          import re
+          from deep_translator import GoogleTranslator
+          
+          def translate_text(text, target_lang):
+              """Translate text while preserving markdown syntax"""
+              # Skip translation for code blocks, links, and special syntax
+              if any(marker in text for marker in ['```', 'http', 'https', '![', '](', '<img', '<div']):
+                  return text
+              
+              # Skip short technical terms
+              if len(text.strip()) < 3:
+                  return text
+                  
+              try:
+                  translator = GoogleTranslator(source='auto', target=target_lang)
+                  return translator.translate(text)
+              except Exception as e:
+                  print(f"Translation error: {e}")
+                  return text
+          
+          def process_readme(content, target_lang, output_file):
+              """Process README and translate appropriate sections"""
+              lines = content.split('\n')
+              translated_lines = []
+              
+              in_code_block = False
+              in_html_block = False
+              
+              for line in lines:
+                  # Toggle code block state
+                  if line.strip().startswith('```'):
+                      in_code_block = not in_code_block
+                      translated_lines.append(line)
+                      continue
+                  
+                  # Toggle HTML block state
+                  if line.strip().startswith('<') and not line.strip().startswith('<!--'):
+                      in_html_block = True
+                  if in_html_block and line.strip().endswith('>'):
+                      in_html_block = False
+                      translated_lines.append(line)
+                      continue
+                  
+                  # Skip translation in code blocks and HTML blocks
+                  if in_code_block or in_html_block:
+                      translated_lines.append(line)
+                      continue
+                  
+                  # Skip markdown headers, links, images, and badges
+                  if (line.strip().startswith('#') or 
+                      line.strip().startswith('!') or
+                      line.strip().startswith('[') or
+                      line.strip().startswith('|') or
+                      'http' in line or
+                      '![' in line or
+                      not line.strip()):
+                      translated_lines.append(line)
+                      continue
+                  
+                  # Translate regular text
+                  translated_line = translate_text(line, target_lang)
+                  translated_lines.append(translated_line)
+              
+              # Write translated content
+              with open(output_file, 'w', encoding='utf-8') as f:
+                  f.write('\n'.join(translated_lines))
+              
+              print(f"✅ Translated README to {target_lang} -> {output_file}")
+          
+          # Read the original README
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          
+          # Languages to translate to
+          languages = {
+              'en': 'README.en.md',
+              'es': 'README.es.md',
+              'de': 'README.de.md',
+              'fr': 'README.fr.md',
+              'zh-CN': 'README.zh-CN.md',
+              'ja': 'README.ja.md'
+          }
+          
+          # Process translations
+          for lang_code, output_file in languages.items():
+              print(f"Translating to {lang_code}...")
+              process_readme(content, lang_code, output_file)
+          
+          print("✅ All translations completed!")
+          EOF
+          
+      - name: Commit translations
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.*.md
+          git diff --staged --quiet || git commit -m "🌍 Auto-translate README to multiple languages"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
