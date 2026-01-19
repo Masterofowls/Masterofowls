@@ -1,0 +1,6 @@
+# robots.txt for GitHub Pages
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://masterofowls.github.io/Masterofowls/sitemap.xml
