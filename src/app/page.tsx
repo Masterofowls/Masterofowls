@@ -1,6 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
+import { useEffect, useState } from "react";
 import { Navigation } from "@/components/Navigation";
 import { AboutSection } from "@/components/sections/AboutSection";
 import { ContactSection } from "@/components/sections/ContactSection";
@@ -17,9 +18,20 @@ const ThreeBackground = dynamic(
 );
 
 export default function Home() {
+  const [showBackground, setShowBackground] = useState(false);
+
+  useEffect(() => {
+    // Defer Three.js until browser is idle
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(() => setShowBackground(true), { timeout: 2000 });
+    } else {
+      setTimeout(() => setShowBackground(true), 1000);
+    }
+  }, []);
+
   return (
     <main className="relative min-h-screen">
-      <ThreeBackground />
+      {showBackground && <ThreeBackground />}
       <Navigation />
       <div className="relative z-10">
         <HeroSection />
