@@ -5,7 +5,7 @@
 [![English](https://img.shields.io/badge/EN-English-00D9FF?style=flat-square&labelColor=0D1117)](README.md)
 [![Russian](https://img.shields.io/badge/RU-Русский-00D9FF?style=flat-square&labelColor=0D1117)](README.ru.md)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Daniil+Shtarkman;Fullstack+Developer;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Django+%7C+FastAPI+%7C+Electron;Docker+%7C+CI%2FCD+%7C+Testing+%7C+Deployment" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Даниил+Штаркман;Fullstack+Developer;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Django+%7C+FastAPI+%7C+Electron;Docker+%7C+CI%2FCD+%7C+Testing+%7C+Deployment" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Masterofowls?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/Masterofowls)
 [![Profile Views](https://komarev.com/ghpvc/?username=Masterofowls&color=00D9FF&style=flat-square&label=Views)](https://github.com/Masterofowls)
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-📧 [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | 💬 [@froggytalents](https://t.me/froggytalents) | 📍 Saint Petersburg
+📧 [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | 💬 [@froggytalents](https://t.me/froggytalents) | 📍 Санкт-Петербург
 
 </div>
 
@@ -27,16 +27,16 @@
 
 ## 💼 Professional Summary
 
-**Fullstack Developer** with 4 years of experience building high-performance web applications. Specialization: **full development cycle** — from UI/UX design to production deployment. Experienced with modern stack (React, TypeScript, Python, Django, Docker), CI/CD pipeline setup, automated testing, and VPS deployment following security best practices.
+**Fullstack-разработчик** с 4-летним опытом создания высокопроизводительных веб-приложений. Специализация: **полный цикл разработки** — от проектирования UI/UX до production deployment. Опыт работы с современным стеком (React, TypeScript, Python, Django, Docker), настройкой CI/CD пайплайнов, автоматизированным тестированием и развертыванием на VPS с соблюдением стандартов безопасности.
 
-**🎯 Core Competencies:**
+**🎯 Ключевые компетенции:**
 
-- **Frontend:** React, TypeScript, Next.js, responsive design, mobile-first, PWA
+- **Frontend:** React, TypeScript, Next.js, адаптивная верстка, mobile-first, PWA
 - **Backend:** Python (Django, Flask, FastAPI), Node.js, REST/GraphQL API
 - **Desktop/Mobile:** Electron.js, React Native, Expo
 - **DevOps:** Docker, CI/CD (GitHub Actions, GitLab CI), Linux, Nginx, SSL/TLS
-- **Testing:** API testing, E2E (Playwright), automated testing
-- **Security:** HTTPS, OAuth, JWT, secure application deployment
+- **Testing:** API testing, E2E (Playwright), автоматизированное тестирование
+- **Security:** HTTPS, OAuth, JWT, безопасное развертывание приложений
 
 ---
 
@@ -56,13 +56,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=0D1117)
 
-**Experience:**
+**Опыт:**
 
-- ES6+, async/await, Promises, TypeScript typing
+- ES6+, async/await, Promises, TypeScript типизация
 - React Hooks, Context API, Redux, custom hooks
 - Next.js: SSR/SSG, App Router, API Routes, Middleware
-- Responsive design, Mobile-First, Flexbox/Grid, CSS animations
-- Webpack, Vite bundling, bundle size optimization
+- Адаптивная верстка, Mobile-First, Flexbox/Grid, CSS animations
+- Webpack, Vite сборка, оптимизация bundle size
 
 </div>
 
@@ -81,14 +81,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117)
 
-**Experience:**
+**Опыт:**
 
 - Python: Django REST Framework, Flask, FastAPI, SQLAlchemy, Celery
-- Node.js: Express.js, REST/GraphQL API, middleware, authentication
-- PostgreSQL, MySQL, SQLite: database design, migrations, query optimization
-- JWT, OAuth 2.0, Session-based auth, role-based access control
-- WebSocket, real-time communication, event-driven architecture
-- API integration: Telegram Bot API, Payment APIs, Third-party services
+- Node.js: Express.js, REST/GraphQL API, middleware, аутентификация
+- PostgreSQL, MySQL, SQLite: проектирование БД, миграции, оптимизация запросов
+- JWT, OAuth 2.0, Session-based auth, роли и права доступа
+- WebSocket, real-time коммуникация, event-driven архитектура
+- API интеграция: Telegram Bot API, Payment APIs, Third-party services
 
 </div>
 
@@ -106,12 +106,12 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white&labelColor=0D1117)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white&labelColor=0D1117)
 
-**Experience:**
+**Опыт:**
 
-- Docker: Dockerfile, docker-compose, multi-stage builds, image optimization
-- CI/CD: GitHub Actions, GitLab CI, automated testing and deployment
-- Linux (Ubuntu/Debian): VPS administration, SSH, systemd, cron
-- Nginx: reverse proxy, SSL/TLS (Let's Encrypt), static files, load balancing
+- Docker: Dockerfile, docker-compose, multi-stage builds, оптимизация образов
+- CI/CD: GitHub Actions, GitLab CI, автоматическое тестирование и deploy
+- Linux (Ubuntu/Debian): VPS администрирование, SSH, systemd, cron
+- Nginx: reverse proxy, SSL/TLS (Let's Encrypt), статика, load balancing
 - Git: branching strategies, merge/rebase, GitFlow, code review
 - Deployment: production setup, environment variables, logging, monitoring
 
@@ -128,12 +128,12 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white&labelColor=0D1117)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white&labelColor=0D1117)
 
-**Experience:**
+**Опыт:**
 
-- End-to-End testing: Playwright, automated UI testing
-- API testing: REST API tests, Postman, automation
-- Unit/Integration tests: Jest, Pytest, coverage analysis
-- Load testing: performance testing, benchmarks
+- End-to-End тестирование: Playwright, автоматизация UI тестов
+- API тестирование: REST API tests, Postman, автоматизация
+- Unit/Integration тесты: Jest, Pytest, coverage анализ
+- Load testing: нагрузочное тестирование, performance benchmarks
 
 </div>
 
@@ -149,11 +149,11 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0D1117)
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white&labelColor=0D1117)
 
-**Experience:**
+**Опыт:**
 
-- Electron.js: desktop applications (Windows/Mac/Linux), IPC, native modules
-- React Native + Expo: mobile applications (iOS/Android), navigation, push notifications
-- PyQt5/6: desktop GUI applications in Python
+- Electron.js: desktop приложения (Windows/Mac/Linux), IPC, native modules
+- React Native + Expo: mobile приложения (iOS/Android), navigation, push notifications
+- PyQt5/6: desktop GUI приложения на Python
 
 </div>
 
@@ -167,58 +167,58 @@
 
 **Stack:** React, TypeScript, Next.js, Django REST, PostgreSQL, Docker, Nginx
 
-- Developed full-featured online store with responsive UI
-- Implemented authentication system (JWT), shopping cart, product filtering
-- Set up Django REST API with role-based access control (RBAC), admin panel
-- Deployed on VPS (Ubuntu + Nginx + SSL), configured CI/CD via GitHub Actions
-- **Result:** production-ready application with secure HTTPS, automated deployment
+- Разработал полнофункциональный интернет-магазин с адаптивным UI
+- Реализовал систему аутентификации (JWT), корзину, фильтрацию товаров
+- Настроил Django REST API с правами доступа (RBAC), админ-панелью
+- Развернул на VPS (Ubuntu + Nginx + SSL), настроил CI/CD через GitHub Actions
+- **Результат:** production-ready приложение с безопасным HTTPS, автодеплоем
 
 ### 📋 **Real-time Task Manager** | Fullstack Developer | 2023
 
 **Stack:** React, FastAPI, WebSocket, PostgreSQL, Playwright
 
-- Created task management system with drag-and-drop interface
-- Implemented WebSocket for real-time synchronization between clients
-- Wrote E2E tests (Playwright) with 80%+ coverage
-- Optimized performance: lazy loading, list virtualization
-- **Result:** responsive application supporting 100+ concurrent users
+- Создал систему управления задачами с drag-and-drop интерфейсом
+- Реализовал WebSocket для синхронизации в реальном времени между клиентами
+- Написал E2E тесты (Playwright) с coverage 80%+
+- Оптимизировал производительность: lazy loading, виртуализация списков
+- **Результат:** отзывчивое приложение с поддержкой 100+ одновременных пользователей
 
 ### 🎓 **College Information Portal** | Backend Developer | 2022
 
 **Stack:** Python, Django, Docker, GitLab CI/CD, Nginx, Ubuntu
 
-- Developed backend for college information system
-- Configured full CI/CD pipeline (GitLab CI): tests → build → deploy
-- Automated SSL certificate renewal (Let's Encrypt), set up reverse proxy
-- Administered VPS (Ubuntu), configured monitoring, logging
-- **Result:** stable production system with automated deployment
+- Разработал backend информационной системы колледжа
+- Настроил полный CI/CD pipeline (GitLab CI): тесты → build → deploy
+- Автоматизировал обновление SSL сертификатов (Let's Encrypt), настроил reverse proxy
+- Администрировал VPS (Ubuntu), настроил мониторинг, логирование
+- **Результат:** стабильная production система с автоматизированным deployment
 
 ### 🤖 **Telegram Notification Bot** | Python Developer | 2023
 
 **Stack:** Python, aiogram 3.x, GitHub Actions, REST API
 
-- Created Telegram bot for automated notifications and external API integration
-- Implemented command handling, inline keyboards, middleware
-- Set up automated deployment via GitHub Actions
-- **Result:** bot processes 500+ messages/day with 99.9% uptime
+- Создал Telegram бота для автоматических уведомлений и интеграции с внешними API
+- Реализовал обработку команд, inline-клавиатуры, middleware
+- Настроил автоматический деплой через GitHub Actions
+- **Результат:** бот обрабатывает 500+ сообщений/день с uptime 99.9%
 
 ### 💻 **Desktop App (Electron)** | Desktop Developer | 2023
 
 **Stack:** Electron.js, React, TypeScript, SQLite
 
-- Developed cross-platform desktop application (Windows/Mac/Linux)
-- Implemented IPC communication, file system operations, local database
-- Created auto-update functionality, application installers
-- **Result:** application with 200+ active users
+- Разработал кроссплатформенное desktop приложение (Windows/Mac/Linux)
+- Реализовал IPC коммуникацию, работу с файловой системой, локальной БД
+- Создал автообновление приложения, упаковку в установщики
+- **Результат:** приложение с 200+ активными пользователями
 
 ---
 
 ## 🎓 Education
 
-| 🏫 Institution            | 📚 Specialization | 📅 Period   |
-| ------------------------- | ----------------- | ----------- |
-| **IT College Hexlet**     | Web Development   | 2023 - 2026 |
-| **Computer Academy STEP** | QA Testing        | 2021 - 2022 |
+| 🏫 Institution                | 📚 Specialization | 📅 Period           |
+| ----------------------------- | ----------------- | ------------------- |
+| **IT Колледж Хекслет**        | Web Development   | 2023 - 2026 (3 год) |
+| **Компьютерная Академия ШАГ** | QA Testing        | 2021 - 2022         |
 
 ---
 
@@ -243,17 +243,17 @@
 ## 🎯 Career Focus
 
 **Seeking:** Junior/Mid-level Fullstack Developer position  
-**Location:** Saint Petersburg, Russia  
+**Location:** Санкт-Петербург, Россия  
 **Format:** Remote / Hybrid
 
 **Key strengths:**
 
-- 🎨 Responsive design and adaptive layouts for all devices
-- ⚡ Full development cycle: from design to production deployment
-- 🔧 CI/CD automation, Docker containerization, VPS administration
-- 🔒 Deployment with security best practices (HTTPS, SSL/TLS)
-- 🧪 Automated testing (E2E, API testing)
-- 🤝 Team collaboration, code review, Git workflow
+- 🎨 Адаптивная верстка и responsive design для всех устройств
+- ⚡ Полный цикл разработки: от проектирования до production deployment
+- 🔧 CI/CD автоматизация, Docker контейнеризация, VPS администрирование
+- 🔒 Развертывание с соблюдением стандартов безопасности (HTTPS, SSL/TLS)
+- 🧪 Автоматизированное тестирование (E2E, API testing)
+- 🤝 Командная работа, code review, Git workflow
 
 ---
 
