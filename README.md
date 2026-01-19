@@ -30,7 +30,7 @@
 
 <div align="center">
 
-📧 [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | 💬 [@froggytalents](https://t.me/froggytalents) | 📍 Saint Petersburg
+📧 [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | 💬 [@froggytalents](https://t.me/froggytalents) |
 
 </div>
 
@@ -241,7 +241,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Masterofowls&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Masterofowls&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=10)
 
 </div>
 
