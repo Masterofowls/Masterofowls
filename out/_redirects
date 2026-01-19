@@ -1,0 +1,3 @@
+# Redirect root robots.txt to subdirectory
+/robots.txt /Masterofowls/robots.txt 301
+/sitemap.xml /Masterofowls/sitemap.xml 301

@@ -78,5 +78,5 @@ export const pt: Translation = {
     telegram: "Telegram",
     github: "GitHub",
     sendMessage: "Enviar mensagem",
-  }};
-
+  },
+};

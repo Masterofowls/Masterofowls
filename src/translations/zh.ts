@@ -78,5 +78,5 @@ export const zh: Translation = {
     telegram: "Telegram",
     github: "GitHub",
     sendMessage: "发送消息",
-  }};
-
+  },
+};
