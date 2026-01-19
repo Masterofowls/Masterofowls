@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- Language Selection -->
+
 [![Russian](https://img.shields.io/badge/RU-Русский-00D9FF?style=flat-square&labelColor=0D1117)](README.md)
 [![English](https://img.shields.io/badge/EN-English-00D9FF?style=flat-square&labelColor=0D1117)](README.en.md)
 [![Spanish](https://img.shields.io/badge/ES-Español-00D9FF?style=flat-square&labelColor=0D1117)](README.es.md)
@@ -9,27 +10,21 @@
 [![Chinese](https://img.shields.io/badge/CN-中文-00D9FF?style=flat-square&labelColor=0D1117)](README.zh-CN.md)
 [![Japanese](https://img.shields.io/badge/JP-日本語-00D9FF?style=flat-square&labelColor=0D1117)](README.ja.md)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Даниил+Штаркман;Junior+Web+Developer;Fullstack+%7C+Backend+%7C+Frontend;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Django+%7C+FastAPI;Responsive+%26+Mobile-First+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Даниил+Штаркман;Fullstack+Developer;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Django+%7C+FastAPI+%7C+Electron;Docker+%7C+CI%2FCD+%7C+Testing+%7C+Deployment" alt="Typing SVG" />
 
-</div>
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/Masterofowls?style=for-the-badge&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/Masterofowls)
-[![Profile Views](https://komarev.com/ghpvc/?username=Masterofowls&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/Masterofowls)
-[![Years of Experience](https://img.shields.io/badge/Experience-4+_Years-00D9FF?style=for-the-badge&labelColor=0D1117)](https://github.com/Masterofowls)
+[![GitHub followers](https://img.shields.io/github/followers/Masterofowls?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/Masterofowls)
+[![Profile Views](https://komarev.com/ghpvc/?username=Masterofowls&color=00D9FF&style=flat-square&label=Views)](https://github.com/Masterofowls)
+[![Experience](https://img.shields.io/badge/Experience-4+_Years-00D9FF?style=flat-square&labelColor=0D1117)](#)
 
 </div>
 
 ---
 
-## 👨‍💻 Contact Information
+## 👨‍💻 Contact & Info
 
 <div align="center">
 
-| 📍 Location | 📧 Email | 📱 Phone | 💬 Telegram | 🔗 GitHub |
-|------------|----------|----------|-------------|-----------|
-| Санкт-Петербург, Россия | [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | +7 (900) 351-39-35 | [@froggytalents](https://t.me/froggytalents) | [Masterofowls](https://github.com/Masterofowls) |
+📧 [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | 💬 [@froggytalents](https://t.me/froggytalents) | 📱 +7 (900) 351-39-35 | 📍 Санкт-Петербург
 
 </div>
 
@@ -37,121 +32,113 @@
 
 ## 💼 Professional Summary
 
-```typescript
-const developer = {
-  name: "Даниил Штаркман",
-  role: "Junior Web Developer (Fullstack/Backend)",
-  location: "Saint Petersburg, Russia",
-  experience: "4 years",
-  specialization: "Web Development",
-  education: {
-    current: "IT College Hexlet (3rd year) - Web Development",
-    completed: "Computer Academy STEP - QA Testing"
-  },
-  lookingFor: [
-    "Junior/Trainee positions",
-    "Backend Developer",
-    "Frontend Developer",
-    "QA Tester",
-    "DevOps Engineer"
-  ],
-  workFormat: ["Remote", "Hybrid"],
-  characteristics: [
-    "Responsible and proactive",
-    "Strong time management",
-    "Fast learner",
-    "Team player"
-  ]
-};
-```
+**Fullstack-разработчик** с 4-летним опытом создания высокопроизводительных веб-приложений. Специализация: **полный цикл разработки** — от проектирования UI/UX до production deployment. Опыт работы с современным стеком (React, TypeScript, Python, Django, Docker), настройкой CI/CD пайплайнов, автоматизированным тестированием и развертыванием на VPS с соблюдением стандартов безопасности.
 
-Мотивированный студент 3-го курса с **4-летним опытом** веб-разработки. Специализируюсь на создании **адаптивных, кроссбраузерных веб-приложений** с полноценным функционалом и высокой производительностью. Имею практический опыт в полном цикле разработки: от проектирования **responsive UI/UX** и написания кода до настройки CI/CD, контейнеризации и Linux-администрирования.
+**🎯 Ключевые компетенции:**
 
-### 📱 Responsive & Adaptive Development
-Разрабатываю веб-приложения с **полной адаптацией** под различные устройства и разрешения экранов:
-- **Desktop** (1920px+): Полнофункциональный интерфейс с расширенными возможностями
-- **Tablet** (768px-1024px): Адаптированная навигация и оптимизированный контент
-- **Mobile** (320px-767px): Mobile-first подход, touch-friendly интерфейсы
-- **Cross-browser compatibility**: Chrome, Firefox, Safari, Edge
+- **Frontend:** React, TypeScript, Next.js, адаптивная верстка, mobile-first, PWA
+- **Backend:** Python (Django, Flask, FastAPI), Node.js, REST/GraphQL API
+- **Desktop/Mobile:** Electron.js, React Native, Expo
+- **DevOps:** Docker, CI/CD (GitHub Actions, GitLab CI), Linux, Nginx, SSL/TLS
+- **Testing:** API testing, E2E (Playwright), автоматизированное тестирование
+- **Security:** HTTPS, OAuth, JWT, безопасное развертывание приложений
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
 <details open>
-<summary><b>Frontend & UI/UX</b></summary>
+<summary><b>Frontend Development</b></summary>
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0D1117)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=0D1117)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-00D9FF?style=for-the-badge&logo=responsive&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=0D1117)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=0D1117)
 
-**Key Skills:** ES6+, Async Programming, Hooks, Context API, SSR, SSG, App Router, Responsive Web Design, Mobile-First Development
+**Опыт:**
+
+- ES6+, async/await, Promises, TypeScript типизация
+- React Hooks, Context API, Redux, custom hooks
+- Next.js: SSR/SSG, App Router, API Routes, Middleware
+- Адаптивная верстка, Mobile-First, Flexbox/Grid, CSS animations
+- Webpack, Vite сборка, оптимизация bundle size
 
 </div>
 
 </details>
 
 <details open>
-<summary><b>Backend & API Development</b></summary>
+<summary><b>Backend Development</b></summary>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=0D1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117)
 
-**Key Skills:** RESTful API Design, JWT Authentication, Django REST Framework, Web Scraping, SQL
+**Опыт:**
+
+- Python: Django REST Framework, Flask, FastAPI, SQLAlchemy, Celery
+- Node.js: Express.js, REST/GraphQL API, middleware, аутентификация
+- PostgreSQL, MySQL, SQLite: проектирование БД, миграции, оптимизация запросов
+- JWT, OAuth 2.0, Session-based auth, роли и права доступа
+- WebSocket, real-time коммуникация, event-driven архитектура
+- API интеграция: Telegram Bot API, Payment APIs, Third-party services
 
 </div>
 
 </details>
 
 <details open>
-<summary><b>DevOps & Infrastructure</b></summary>
+<summary><b>DevOps & Deployment</b></summary>
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=0D1117)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0D1117)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0D1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&labelColor=0D1117)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white&labelColor=0D1117)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white&labelColor=0D1117)
 
-**Key Skills:** CI/CD Pipelines, Containerization, VPS Administration, SSH, SSL/Let's Encrypt, Proxy Configuration
+**Опыт:**
+
+- Docker: Dockerfile, docker-compose, multi-stage builds, оптимизация образов
+- CI/CD: GitHub Actions, GitLab CI, автоматическое тестирование и deploy
+- Linux (Ubuntu/Debian): VPS администрирование, SSH, systemd, cron
+- Nginx: reverse proxy, SSL/TLS (Let's Encrypt), статика, load balancing
+- Git: branching strategies, merge/rebase, GitFlow, code review
+- Deployment: production setup, environment variables, logging, monitoring
 
 </div>
 
 </details>
 
 <details>
-<summary><b>Testing & Quality Assurance</b></summary>
+<summary><b>Testing & QA</b></summary>
 
 <div align="center">
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=0D1117)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=0D1117)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white&labelColor=0D1117)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white&labelColor=0D1117)
 
-**Key Skills:** End-to-End Testing, API Testing, Load Testing, Data Analysis
+**Опыт:**
+
+- End-to-End тестирование: Playwright, автоматизация UI тестов
+- API тестирование: REST API tests, Postman, автоматизация
+- Unit/Integration тесты: Jest, Pytest, coverage анализ
+- Load testing: нагрузочное тестирование, performance benchmarks
 
 </div>
 
@@ -162,11 +149,16 @@ const developer = {
 
 <div align="center">
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=0D1117)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=0D1117)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white&labelColor=0D1117)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white&labelColor=0D1117)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white&labelColor=0D1117)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0D1117)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white&labelColor=0D1117)
+
+**Опыт:**
+
+- Electron.js: desktop приложения (Windows/Mac/Linux), IPC, native modules
+- React Native + Expo: mobile приложения (iOS/Android), navigation, push notifications
+- PyQt5/6: desktop GUI приложения на Python
 
 </div>
 
@@ -174,91 +166,64 @@ const developer = {
 
 ---
 
-## 🚀 Key Projects
+## 💼 Work Experience & Projects
 
-<div align="center">
+### 🛒 **E-commerce Platform** | Fullstack Developer | 2023
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Stack:** React, TypeScript, Next.js, Django REST, PostgreSQL, Docker, Nginx
 
-### 🛒 E-commerce Platform
-**Fullstack** | 2023
+- Разработал полнофункциональный интернет-магазин с адаптивным UI
+- Реализовал систему аутентификации (JWT), корзину, фильтрацию товаров
+- Настроил Django REST API с правами доступа (RBAC), админ-панелью
+- Развернул на VPS (Ubuntu + Nginx + SSL), настроил CI/CD через GitHub Actions
+- **Результат:** production-ready приложение с безопасным HTTPS, автодеплоем
 
-**Tech Stack:**
-- Next.js (Frontend)
-- Django REST API (Backend)
-- PostgreSQL (Database)
-- Docker + Nginx (Deployment)
+### 📋 **Real-time Task Manager** | Fullstack Developer | 2023
 
-**Achievements:**
-- ✅ Full-featured online store with cart & filters
-- ✅ User authentication with JWT
-- ✅ Role-based access control
-- ✅ Admin panel
-- ✅ VPS deployment with SSL
+**Stack:** React, FastAPI, WebSocket, PostgreSQL, Playwright
 
-</td>
-<td width="50%" valign="top">
+- Создал систему управления задачами с drag-and-drop интерфейсом
+- Реализовал WebSocket для синхронизации в реальном времени между клиентами
+- Написал E2E тесты (Playwright) с coverage 80%+
+- Оптимизировал производительность: lazy loading, виртуализация списков
+- **Результат:** отзывчивое приложение с поддержкой 100+ одновременных пользователей
 
-### 📋 Real-time Task Manager
-**Fullstack** | 2023
+### 🎓 **College Information Portal** | Backend Developer | 2022
 
-**Tech Stack:**
-- React (Frontend)
-- FastAPI (Backend)
-- WebSocket (Real-time)
-- Playwright (Testing)
+**Stack:** Python, Django, Docker, GitLab CI/CD, Nginx, Ubuntu
 
-**Achievements:**
-- ✅ Intuitive Drag-and-Drop interface
-- ✅ Real-time data synchronization
-- ✅ Multi-client WebSocket support
-- ✅ End-to-End test coverage
+- Разработал backend информационной системы колледжа
+- Настроил полный CI/CD pipeline (GitLab CI): тесты → build → deploy
+- Автоматизировал обновление SSL сертификатов (Let's Encrypt), настроил reverse proxy
+- Администрировал VPS (Ubuntu), настроил мониторинг, логирование
+- **Результат:** стабильная production система с автоматизированным deployment
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🤖 **Telegram Notification Bot** | Python Developer | 2023
 
-### 🎓 College Information Portal
-**Backend** | 2022
+**Stack:** Python, aiogram 3.x, GitHub Actions, REST API
 
-**Tech Stack:**
-- Python Backend
-- Docker
-- Ubuntu VPS
-- Nginx
-- GitLab CI/CD
+- Создал Telegram бота для автоматических уведомлений и интеграции с внешними API
+- Реализовал обработку команд, inline-клавиатуры, middleware
+- Настроил автоматический деплой через GitHub Actions
+- **Результат:** бот обрабатывает 500+ сообщений/день с uptime 99.9%
 
-**Achievements:**
-- ✅ Student information system
-- ✅ Automated CI/CD pipeline
-- ✅ Let's Encrypt SSL automation
-- ✅ Production deployment
+### 💻 **Desktop App (Electron)** | Desktop Developer | 2023
 
-</td>
-<td width="50%" valign="top">
+**Stack:** Electron.js, React, TypeScript, SQLite
 
-### 🤖 Telegram Notification Bot
-**Automation** | 2023
+- Разработал кроссплатформенное desktop приложение (Windows/Mac/Linux)
+- Реализовал IPC коммуникацию, работу с файловой системой, локальной БД
+- Создал автообновление приложения, упаковку в установщики
+- **Результат:** приложение с 200+ активными пользователями
 
-**Tech Stack:**
-- Python
-- Telegram API
-- GitHub Actions CI/CD
+---
 
-**Achievements:**
-- ✅ Automated server notifications
-- ✅ Device communication bridge
-- ✅ Continuous deployment
-- ✅ Real-time alerts
+## 🎓 Education
 
-</td>
-</tr>
-</table>
-
-</div>
+| 🏫 Institution                | 📚 Specialization | 📅 Period                 |
+| ----------------------------- | ----------------- | ------------------------- |
+| **IT Колледж Хекслет**        | Web Development   | 2023 - Present (3rd Year) |
+| **Компьютерная Академия ШАГ** | QA Testing        | 2021 - 2022 (Completed)   |
 
 ---
 
@@ -269,119 +234,40 @@ const developer = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Masterofowls&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterofowls&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="Top Languages" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Masterofowls&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
-<div align="center">
+---
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Masterofowls&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
+## 🎯 Career Focus
 
-</div>
+**Seeking:** Junior/Mid-level Fullstack Developer position  
+**Location:** Санкт-Петербург, Россия  
+**Format:** Remote / Hybrid
 
-<div align="center">
+**Key strengths:**
 
-### 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Masterofowls&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-
-</div>
+- 🎨 Адаптивная верстка и responsive design для всех устройств
+- ⚡ Полный цикл разработки: от проектирования до production deployment
+- 🔧 CI/CD автоматизация, Docker контейнеризация, VPS администрирование
+- 🔒 Развертывание с соблюдением стандартов безопасности (HTTPS, SSL/TLS)
+- 🧪 Автоматизированное тестирование (E2E, API testing)
+- 🤝 Командная работа, code review, Git workflow
 
 ---
 
-## ⚡ Real-time Coding Stats
+## 📫 Contact
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Email](https://img.shields.io/badge/Email-mrdaniilsht%40gmail.com-00D9FF?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mrdaniilsht@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40froggytalents-00D9FF?style=flat-square&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/froggytalents)
+[![Portfolio](https://img.shields.io/badge/Resume-Full_CV-00D9FF?style=flat-square&logo=readme&logoColor=white&labelColor=0D1117)](https://any.coop/A94vJzyywVay5hRKuq1YHVSEEqsxxkdR2jdYo6R3ytJ1qtfn/resume)
 
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Masterofowls/Masterofowls/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Masterofowls/Masterofowls/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Masterofowls/Masterofowls/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| 🏫 Institution | 📚 Specialization | 📅 Period | 📍 Status |
-|---------------|-------------------|-----------|-----------|
-| **IT Колледж Хекслет** | Web Development | 2023 - Present | 3rd Year Student |
-| **Компьютерная Академия ШАГ** | QA Testing | 2021 - 2022 | Completed |
-
-</div>
-
----
-
-## 🎯 Career Goals
-
-<div align="center">
-
-```python
-class CareerObjectives:
-    def __init__(self):
-        self.seeking = "Junior/Trainee Web Developer Position"
-        self.location = "Saint Petersburg, Russia"
-        self.work_format = ["Remote", "Hybrid"]
-        self.focus = "Web Development"
-        
-    def preferred_roles(self):
-        return [
-            "🌐 Frontend Developer",
-            "🐍 Backend Developer",
-            "💻 Fullstack Developer",
-            "🧪 QA Tester", 
-            "🚀 DevOps Engineer"
-        ]
-    
-    def technical_strengths(self):
-        return [
-            "Responsive & Adaptive Design",
-            "Mobile-First Development",
-            "Cross-Browser Compatibility",
-            "API Development & Integration",
-            "CI/CD & Deployment"
-        ]
-    
-    def personal_qualities(self):
-        return {
-            "responsibility": "Always complete tasks on time",
-            "initiative": "Proactive in team collaboration",
-            "structure": "Effective time and workflow management",
-            "learning": "Strong desire to learn and grow"
-        }
-```
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-mrdaniilsht%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mrdaniilsht@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40froggytalents-00D9FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/froggytalents)
-[![GitHub](https://img.shields.io/badge/GitHub-Masterofowls-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Masterofowls)
-[![Portfolio](https://img.shields.io/badge/Resume-View_Full_CV-00D9FF?style=for-the-badge&logo=readme&logoColor=white&labelColor=0D1117)](https://any.coop/A94vJzyywVay5hRKuq1YHVSEEqsxxkdR2jdYo6R3ytJ1qtfn/resume)
+**Phone:** +7 (900) 351-39-35
 
 </div>
 
@@ -389,8 +275,6 @@ class CareerObjectives:
 
 <div align="center">
 
-### 💡 *"Turning ideas into reality, one commit at a time"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&fontAlignY=70&animation=twinkling" />
+<sub>⚡ Fullstack Developer | 4 years experience | Production-ready solutions</sub>
 
 </div>
