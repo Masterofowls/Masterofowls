@@ -19,7 +19,7 @@
 
 <div align="center">
 
-📧 [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | 💬 [@froggytalents](https://t.me/froggytalents) | 📍 Saint Petersburg
+📧 [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | 💬 [@froggytalents](https://t.me/froggytalents) |
 
 </div>
 
