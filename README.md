@@ -9,7 +9,7 @@
 [![Chinese](https://img.shields.io/badge/CN-中文-00D9FF?style=flat-square&labelColor=0D1117)](README.zh-CN.md)
 [![Japanese](https://img.shields.io/badge/JP-日本語-00D9FF?style=flat-square&labelColor=0D1117)](README.ja.md)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Даниил+Штаркман;Junior+Web+Developer;Fullstack+%7C+Backend+%7C+Frontend;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Django+%7C+FastAPI;Responsive+%26+Mobile-First+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Daniil+Shtarkman;Junior+Web+Developer;Fullstack+%7C+Backend+%7C+Frontend;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Django+%7C+FastAPI;Responsive+%26+Mobile-First+Design" alt="Typing SVG" />
 
 </div>
 
@@ -29,7 +29,7 @@
 
 | 📍 Location | 📧 Email | 📱 Phone | 💬 Telegram | 🔗 GitHub |
 |------------|----------|----------|-------------|-----------|
-| Санкт-Петербург, Россия | [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | +7 (900) 351-39-35 | [@froggytalents](https://t.me/froggytalents) | [Masterofowls](https://github.com/Masterofowls) |
+| Saint Petersburg, Russia | [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | +7 (900) 351-39-35 | [@froggytalents](https://t.me/froggytalents) | [Masterofowls](https://github.com/Masterofowls) |
 
 </div>
 
@@ -39,7 +39,7 @@
 
 ```typescript
 const developer = {
-  name: "Даниил Штаркман",
+  name: "Daniil Shtarkman",
   role: "Junior Web Developer (Fullstack/Backend)",
   location: "Saint Petersburg, Russia",
   experience: "4 years",
@@ -65,13 +65,13 @@ const developer = {
 };
 ```
 
-Мотивированный студент 3-го курса с **4-летним опытом** веб-разработки. Специализируюсь на создании **адаптивных, кроссбраузерных веб-приложений** с полноценным функционалом и высокой производительностью. Имею практический опыт в полном цикле разработки: от проектирования **responsive UI/UX** и написания кода до настройки CI/CD, контейнеризации и Linux-администрирования.
+Motivated 3rd-year student with **4 years of experience** in web development. Specializing in creating **responsive and adaptive web applications** using modern technologies. Strong focus on clean code, best practices, and user experience.
 
 ### 📱 Responsive & Adaptive Development
-Разрабатываю веб-приложения с **полной адаптацией** под различные устройства и разрешения экранов:
-- **Desktop** (1920px+): Полнофункциональный интерфейс с расширенными возможностями
-- **Tablet** (768px-1024px): Адаптированная навигация и оптимизированный контент
-- **Mobile** (320px-767px): Mobile-first подход, touch-friendly интерфейсы
+Building web applications with **full adaptation** for various devices and screen resolutions:
+- **Desktop** (1920px+): Full-featured interface with advanced capabilities
+- **Tablet** (768px-1024px): Adapted navigation and optimized content
+- **Mobile** (320px-767px): Mobile-first approach with touch-friendly interfaces
 - **Cross-browser compatibility**: Chrome, Firefox, Safari, Edge
 
 ---
@@ -324,8 +324,8 @@ const developer = {
 
 | 🏫 Institution | 📚 Specialization | 📅 Period | 📍 Status |
 |---------------|-------------------|-----------|-----------|
-| **IT Колледж Хекслет** | Web Development | 2023 - Present | 3rd Year Student |
-| **Компьютерная Академия ШАГ** | QA Testing | 2021 - 2022 | Completed |
+| **IT College Hexlet** | Web Development | 2023 - Present | 3rd Year Student |
+| **Computer Academy STEP** | QA Testing | 2021 - 2022 | Completed |
 
 </div>
 
@@ -335,40 +335,19 @@ const developer = {
 
 <div align="center">
 
-```python
-class CareerObjectives:
-    def __init__(self):
-        self.seeking = "Junior/Trainee Web Developer Position"
-        self.location = "Saint Petersburg, Russia"
-        self.work_format = ["Remote", "Hybrid"]
-        self.focus = "Web Development"
-        
-    def preferred_roles(self):
-        return [
-            "🌐 Frontend Developer",
-            "🐍 Backend Developer",
-            "💻 Fullstack Developer",
-            "🧪 QA Tester", 
-            "🚀 DevOps Engineer"
-        ]
-    
-    def technical_strengths(self):
-        return [
-            "Responsive & Adaptive Design",
-            "Mobile-First Development",
-            "Cross-Browser Compatibility",
-            "API Development & Integration",
-            "CI/CD & Deployment"
-        ]
-    
-    def personal_qualities(self):
-        return {
-            "responsibility": "Always complete tasks on time",
-            "initiative": "Proactive in team collaboration",
-            "structure": "Effective time and workflow management",
-            "learning": "Strong desire to learn and grow"
-        }
-```
+### Seeking Junior/Trainee Web Developer Position
+
+**Work Format:** Remote | Hybrid  
+**Location:** Saint Petersburg, Russia
+
+#### Target Roles
+🌐 Frontend Developer | 🐍 Backend Developer | 💻 Fullstack Developer | 🧪 QA Tester | 🚀 DevOps Engineer
+
+#### Core Strengths
+✅ Responsive & Mobile-First Design  
+✅ Cross-Browser Compatibility  
+✅ API Development & Integration  
+✅ CI/CD & Deployment Automation
 
 </div>
 
