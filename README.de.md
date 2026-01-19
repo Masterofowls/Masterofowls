@@ -16,45 +16,45 @@
 [![Malay](https://img.shields.io/badge/MY-Bahasa-00D9FF?style=flat-square&labelColor=0D1117)](README.ms.md)
 [![Thai](https://img.shields.io/badge/TH-ภาษาไทย-00D9FF?style=flat-square&labelColor=0D1117)](README.th.md)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Daniil+Shtarkman;Fullstack+Developer;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Django+%7C+FastAPI+%7C+Electron;Docker+%7C+CI%2FCD+%7C+Testing+%7C+Deployment" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Daniil+Shtarkman;Fullstack+Entwickler;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Django+%7C+FastAPI+%7C+Electron;Docker+%7C+CI%2FCD+%7C+Testing+%7C+Deployment" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Masterofowls?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/Masterofowls)
-[![Profile Views](https://komarev.com/ghpvc/?username=Masterofowls&color=00D9FF&style=flat-square&label=Views)](https://github.com/Masterofowls)
-[![Experience](https://img.shields.io/badge/Experience-4+_Years-00D9FF?style=flat-square&labelColor=0D1117)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=Masterofowls&color=00D9FF&style=flat-square&label=Aufrufe)](https://github.com/Masterofowls)
+[![Experience](https://img.shields.io/badge/Erfahrung-4+_Jahre-00D9FF?style=flat-square&labelColor=0D1117)](#)
 
 </div>
 
 ---
 
-## 👨‍💻 Contact & Info
+## 👨‍💻 Kontakt & Info
 
 <div align="center">
 
-📧 [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | 💬 [@froggytalents](https://t.me/froggytalents) | 📍 Saint Petersburg
+📧 [mrdaniilsht@gmail.com](mailto:mrdaniilsht@gmail.com) | 💬 [@froggytalents](https://t.me/froggytalents) | 📍 Sankt Petersburg
 
 </div>
 
 ---
 
-## 💼 Professional Summary
+## 💼 Berufsprofil
 
-**Fullstack Developer** with 4 years of experience building high-performance web applications. Specialization: **full development cycle** — from UI/UX design to production deployment. Experienced with modern stack (React, TypeScript, Python, Django, Docker), CI/CD pipeline setup, automated testing, and VPS deployment following security best practices.
+**Fullstack-Entwickler** mit 4 Jahren Erfahrung in der Entwicklung hochperformanter Webanwendungen. Spezialisierung: **vollständiger Entwicklungszyklus** — von UI/UX-Design bis zur Produktionsbereitstellung. Erfahren mit modernem Stack (React, TypeScript, Python, Django, Docker), CI/CD-Pipeline-Setup, automatisiertem Testing und VPS-Deployment unter Beachtung von Security Best Practices.
 
-**🎯 Core Competencies:**
+**🎯 Kernkompetenzen:**
 
-- **Frontend:** React, TypeScript, Next.js, responsive design, mobile-first, PWA
+- **Frontend:** React, TypeScript, Next.js, Responsive Design, Mobile-First, PWA
 - **Backend:** Python (Django, Flask, FastAPI), Node.js, REST/GraphQL API
 - **Desktop/Mobile:** Electron.js, React Native, Expo
 - **DevOps:** Docker, CI/CD (GitHub Actions, GitLab CI), Linux, Nginx, SSL/TLS
-- **Testing:** API testing, E2E (Playwright), automated testing
-- **Security:** HTTPS, OAuth, JWT, secure application deployment
+- **Testing:** API-Testing, E2E (Playwright), Automatisiertes Testing
+- **Security:** HTTPS, OAuth, JWT, sichere Anwendungsbereitstellung
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technischer Stack
 
 <details open>
-<summary><b>Frontend Development</b></summary>
+<summary><b>Frontend-Entwicklung</b></summary>
 
 <div align="center">
 
@@ -67,20 +67,20 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=0D1117)
 
-**Experience:**
+**Erfahrung:**
 
-- ES6+, async/await, Promises, TypeScript typing
-- React Hooks, Context API, Redux, custom hooks
+- ES6+, async/await, Promises, TypeScript-Typisierung
+- React Hooks, Context API, Redux, Custom Hooks
 - Next.js: SSR/SSG, App Router, API Routes, Middleware
-- Responsive design, Mobile-First, Flexbox/Grid, CSS animations
-- Webpack, Vite bundling, bundle size optimization
+- Responsive Design, Mobile-First, Flexbox/Grid, CSS-Animationen
+- Webpack, Vite Bundling, Bundle-Size-Optimierung
 
 </div>
 
 </details>
 
 <details open>
-<summary><b>Backend Development</b></summary>
+<summary><b>Backend-Entwicklung</b></summary>
 
 <div align="center">
 
@@ -92,14 +92,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117)
 
-**Experience:**
+**Erfahrung:**
 
 - Python: Django REST Framework, Flask, FastAPI, SQLAlchemy, Celery
-- Node.js: Express.js, REST/GraphQL API, middleware, authentication
-- PostgreSQL, MySQL, SQLite: database design, migrations, query optimization
-- JWT, OAuth 2.0, Session-based auth, role-based access control
-- WebSocket, real-time communication, event-driven architecture
-- API integration: Telegram Bot API, Payment APIs, Third-party services
+- Node.js: Express.js, REST/GraphQL API, Middleware, Authentifizierung
+- PostgreSQL, MySQL, SQLite: Datenbankdesign, Migrationen, Query-Optimierung
+- JWT, OAuth 2.0, Session-basierte Authentifizierung, rollenbasierte Zugriffskontrolle
+- WebSocket, Echtzeit-Kommunikation, Event-driven Architecture
+- API-Integration: Telegram Bot API, Payment APIs, Third-party Services
 
 </div>
 
@@ -117,14 +117,14 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white&labelColor=0D1117)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white&labelColor=0D1117)
 
-**Experience:**
+**Erfahrung:**
 
-- Docker: Dockerfile, docker-compose, multi-stage builds, image optimization
-- CI/CD: GitHub Actions, GitLab CI, automated testing and deployment
-- Linux (Ubuntu/Debian): VPS administration, SSH, systemd, cron
-- Nginx: reverse proxy, SSL/TLS (Let's Encrypt), static files, load balancing
-- Git: branching strategies, merge/rebase, GitFlow, code review
-- Deployment: production setup, environment variables, logging, monitoring
+- Docker: Dockerfile, docker-compose, Multi-Stage-Builds, Image-Optimierung
+- CI/CD: GitHub Actions, GitLab CI, automatisiertes Testing und Deployment
+- Linux (Ubuntu/Debian): VPS-Administration, SSH, systemd, cron
+- Nginx: Reverse Proxy, SSL/TLS (Let's Encrypt), Static Files, Load Balancing
+- Git: Branching Strategies, Merge/Rebase, GitFlow, Code Review
+- Deployment: Production Setup, Environment Variables, Logging, Monitoring
 
 </div>
 
@@ -139,19 +139,19 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white&labelColor=0D1117)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white&labelColor=0D1117)
 
-**Experience:**
+**Erfahrung:**
 
-- End-to-End testing: Playwright, automated UI testing
-- API testing: REST API tests, Postman, automation
-- Unit/Integration tests: Jest, Pytest, coverage analysis
-- Load testing: performance testing, benchmarks
+- End-to-End-Testing: Playwright, automatisiertes UI-Testing
+- API-Testing: REST API Tests, Postman, Automation
+- Unit/Integration Tests: Jest, Pytest, Coverage-Analyse
+- Load Testing: Performance-Testing, Benchmarks
 
 </div>
 
 </details>
 
 <details>
-<summary><b>Cross-Platform Development</b></summary>
+<summary><b>Cross-Platform-Entwicklung</b></summary>
 
 <div align="center">
 
@@ -160,11 +160,11 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0D1117)
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white&labelColor=0D1117)
 
-**Experience:**
+**Erfahrung:**
 
-- Electron.js: desktop applications (Windows/Mac/Linux), IPC, native modules
-- React Native + Expo: mobile applications (iOS/Android), navigation, push notifications
-- PyQt5/6: desktop GUI applications in Python
+- Electron.js: Desktop-Anwendungen (Windows/Mac/Linux), IPC, Native Modules
+- React Native + Expo: Mobile-Anwendungen (iOS/Android), Navigation, Push Notifications
+- PyQt5/6: Desktop-GUI-Anwendungen in Python
 
 </div>
 
@@ -172,68 +172,68 @@
 
 ---
 
-## 💼 Work Experience & Projects
+## 💼 Berufserfahrung & Projekte
 
-### 🛒 **E-commerce Platform** | Fullstack Developer | 2023
+### 🛒 **E-Commerce-Plattform** | Fullstack-Entwickler | 2023
 
 **Stack:** React, TypeScript, Next.js, Django REST, PostgreSQL, Docker, Nginx
 
-- Developed full-featured online store with responsive UI
-- Implemented authentication system (JWT), shopping cart, product filtering
-- Set up Django REST API with role-based access control (RBAC), admin panel
-- Deployed on VPS (Ubuntu + Nginx + SSL), configured CI/CD via GitHub Actions
-- **Result:** production-ready application with secure HTTPS, automated deployment
+- Entwicklung eines vollwertigen Online-Shops mit Responsive UI
+- Implementierung eines Authentifizierungssystems (JWT), Warenkorb, Produktfilterung
+- Einrichtung von Django REST API mit rollenbasierter Zugriffskontrolle (RBAC), Admin-Panel
+- Deployment auf VPS (Ubuntu + Nginx + SSL), Konfiguration von CI/CD über GitHub Actions
+- **Ergebnis:** produktionsreife Anwendung mit sicherem HTTPS, automatisiertem Deployment
 
-### 📋 **Real-time Task Manager** | Fullstack Developer | 2023
+### 📋 **Echtzeit-Task-Manager** | Fullstack-Entwickler | 2023
 
 **Stack:** React, FastAPI, WebSocket, PostgreSQL, Playwright
 
-- Created task management system with drag-and-drop interface
-- Implemented WebSocket for real-time synchronization between clients
-- Wrote E2E tests (Playwright) with 80%+ coverage
-- Optimized performance: lazy loading, list virtualization
-- **Result:** responsive application supporting 100+ concurrent users
+- Erstellung eines Aufgabenverwaltungssystems mit Drag-and-Drop-Interface
+- Implementierung von WebSocket für Echtzeit-Synchronisation zwischen Clients
+- Erstellung von E2E-Tests (Playwright) mit 80%+ Coverage
+- Performance-Optimierung: Lazy Loading, List Virtualization
+- **Ergebnis:** responsive Anwendung mit Unterstützung von 100+ gleichzeitigen Benutzern
 
-### 🎓 **College Information Portal** | Backend Developer | 2022
+### 🎓 **College-Informationsportal** | Backend-Entwickler | 2022
 
 **Stack:** Python, Django, Docker, GitLab CI/CD, Nginx, Ubuntu
 
-- Developed backend for college information system
-- Configured full CI/CD pipeline (GitLab CI): tests → build → deploy
-- Automated SSL certificate renewal (Let's Encrypt), set up reverse proxy
-- Administered VPS (Ubuntu), configured monitoring, logging
-- **Result:** stable production system with automated deployment
+- Entwicklung des Backends für ein College-Informationssystem
+- Konfiguration einer vollständigen CI/CD-Pipeline (GitLab CI): Tests → Build → Deploy
+- Automatisierung der SSL-Zertifikatserneuerung (Let's Encrypt), Einrichtung von Reverse Proxy
+- VPS-Administration (Ubuntu), Konfiguration von Monitoring, Logging
+- **Ergebnis:** stabiles Produktionssystem mit automatisiertem Deployment
 
-### 🤖 **Telegram Notification Bot** | Python Developer | 2023
+### 🤖 **Telegram-Benachrichtigungs-Bot** | Python-Entwickler | 2023
 
 **Stack:** Python, aiogram 3.x, GitHub Actions, REST API
 
-- Created Telegram bot for automated notifications and external API integration
-- Implemented command handling, inline keyboards, middleware
-- Set up automated deployment via GitHub Actions
-- **Result:** bot processes 500+ messages/day with 99.9% uptime
+- Erstellung eines Telegram-Bots für automatisierte Benachrichtigungen und externe API-Integration
+- Implementierung von Command Handling, Inline Keyboards, Middleware
+- Einrichtung von automatisiertem Deployment über GitHub Actions
+- **Ergebnis:** Bot verarbeitet 500+ Nachrichten/Tag mit 99,9% Uptime
 
-### 💻 **Desktop App (Electron)** | Desktop Developer | 2023
+### 💻 **Desktop-App (Electron)** | Desktop-Entwickler | 2023
 
 **Stack:** Electron.js, React, TypeScript, SQLite
 
-- Developed cross-platform desktop application (Windows/Mac/Linux)
-- Implemented IPC communication, file system operations, local database
-- Created auto-update functionality, application installers
-- **Result:** application with 200+ active users
+- Entwicklung einer plattformübergreifenden Desktop-Anwendung (Windows/Mac/Linux)
+- Implementierung von IPC-Kommunikation, Dateisystemoperationen, lokaler Datenbank
+- Erstellung von Auto-Update-Funktionalität, Anwendungs-Installern
+- **Ergebnis:** Anwendung mit 200+ aktiven Benutzern
 
 ---
 
-## 🎓 Education
+## 🎓 Bildung
 
-| 🏫 Institution            | 📚 Specialization | 📅 Period   |
-| ------------------------- | ----------------- | ----------- |
-| **IT College Hexlet**     | Web Development   | 2023 - 2026 |
-| **Computer Academy STEP** | QA Testing        | 2021 - 2022 |
+| 🏫 Institution            | 📚 Spezialisierung | 📅 Zeitraum |
+| ------------------------- | ------------------ | ----------- |
+| **IT College Hexlet**     | Web-Entwicklung    | 2023 - 2026 |
+| **Computer Academy STEP** | QA Testing         | 2021 - 2022 |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub-Statistiken
 
 <div align="center">
 
@@ -247,30 +247,30 @@
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Karriereziele
 
-**Seeking:** Junior/Mid-level Fullstack Developer position  
-**Location:** Saint Petersburg, Russia  
+**Suche:** Junior/Mid-level Fullstack-Entwickler Position  
+**Standort:** Sankt Petersburg, Russland  
 **Format:** Remote / Hybrid
 
-**Key strengths:**
+**Hauptstärken:**
 
-- 🎨 Responsive design and adaptive layouts for all devices
-- ⚡ Full development cycle: from design to production deployment
-- 🔧 CI/CD automation, Docker containerization, VPS administration
-- 🔒 Deployment with security best practices (HTTPS, SSL/TLS)
-- 🧪 Automated testing (E2E, API testing)
-- 🤝 Team collaboration, code review, Git workflow
+- 🎨 Responsive Design und adaptive Layouts für alle Geräte
+- ⚡ Vollständiger Entwicklungszyklus: von Design bis Produktionsbereitstellung
+- 🔧 CI/CD-Automatisierung, Docker-Containerisierung, VPS-Administration
+- 🔒 Deployment mit Security Best Practices (HTTPS, SSL/TLS)
+- 🧪 Automatisiertes Testing (E2E, API-Testing)
+- 🤝 Teamarbeit, Code Review, Git Workflow
 
 ---
 
-## 📫 Contact
+## 📫 Kontakt
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mrdaniilsht%40gmail.com-00D9FF?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mrdaniilsht@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40froggytalents-00D9FF?style=flat-square&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/froggytalents)
-[![Portfolio](https://img.shields.io/badge/Resume-Full_CV-00D9FF?style=flat-square&logo=readme&logoColor=white&labelColor=0D1117)](https://any.coop/A94vJzyywVay5hRKuq1YHVSEEqsxxkdR2jdYo6R3ytJ1qtfn/resume)
+[![Portfolio](https://img.shields.io/badge/Lebenslauf-Vollständiger_CV-00D9FF?style=flat-square&logo=readme&logoColor=white&labelColor=0D1117)](https://any.coop/A94vJzyywVay5hRKuq1YHVSEEqsxxkdR2jdYo6R3ytJ1qtfn/resume)
 
 </div>
 
@@ -278,6 +278,6 @@
 
 <div align="center">
 
-<sub>⚡ Fullstack Developer | 4 years experience | Production-ready solutions</sub>
+<sub>⚡ Fullstack-Entwickler | 4 Jahre Erfahrung | Produktionsreife Lösungen</sub>
 
 </div>

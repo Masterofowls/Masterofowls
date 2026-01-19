@@ -4,6 +4,17 @@
 
 [![English](https://img.shields.io/badge/EN-English-00D9FF?style=flat-square&labelColor=0D1117)](README.md)
 [![Russian](https://img.shields.io/badge/RU-Русский-00D9FF?style=flat-square&labelColor=0D1117)](README.ru.md)
+[![German](https://img.shields.io/badge/DE-Deutsch-00D9FF?style=flat-square&labelColor=0D1117)](README.de.md)
+[![Spanish](https://img.shields.io/badge/ES-Español-00D9FF?style=flat-square&labelColor=0D1117)](README.es.md)
+[![French](https://img.shields.io/badge/FR-Français-00D9FF?style=flat-square&labelColor=0D1117)](README.fr.md)
+[![Portuguese](https://img.shields.io/badge/PT-Português-00D9FF?style=flat-square&labelColor=0D1117)](README.pt.md)
+[![Arabic](https://img.shields.io/badge/AR-العربية-00D9FF?style=flat-square&labelColor=0D1117)](README.ar.md)
+[![Hindi](https://img.shields.io/badge/HI-हिन्दी-00D9FF?style=flat-square&labelColor=0D1117)](README.hi.md)
+[![Japanese](https://img.shields.io/badge/JP-日本語-00D9FF?style=flat-square&labelColor=0D1117)](README.ja.md)
+[![Chinese](https://img.shields.io/badge/CN-中文-00D9FF?style=flat-square&labelColor=0D1117)](README.zh.md)
+[![Vietnamese](https://img.shields.io/badge/VN-Tiếng_Việt-00D9FF?style=flat-square&labelColor=0D1117)](README.vi.md)
+[![Malay](https://img.shields.io/badge/MY-Bahasa-00D9FF?style=flat-square&labelColor=0D1117)](README.ms.md)
+[![Thai](https://img.shields.io/badge/TH-ภาษาไทย-00D9FF?style=flat-square&labelColor=0D1117)](README.th.md)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Даниил+Штаркман;Fullstack+Developer;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Django+%7C+FastAPI+%7C+Electron;Docker+%7C+CI%2FCD+%7C+Testing+%7C+Deployment" alt="Typing SVG" />
 
