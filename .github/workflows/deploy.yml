@@ -48,6 +48,11 @@ jobs:
         env:
           NEXT_PUBLIC_BASE_PATH: /Masterofowls
 
+      - name: Copy root SEO files to deployment
+        run: |
+          cp robots.txt out/robots.txt
+          cp sitemap.xml out/sitemap.xml
+          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
