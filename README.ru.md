@@ -239,6 +239,8 @@ Fullstack-разработчик, DevOps-инженер и системный а
 
 [![Написать в Telegram](https://img.shields.io/badge/💬_Написать_в_Telegram-%40froggytalents-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/froggytalents)
 
+[![Написать в Discord](https://img.shields.io/badge/🎮_Написать_в_Discord-%40maestroofowls-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/channels/@maestroofowls)
+
 [![Открыть сайт-портфолио](https://img.shields.io/badge/🌐_Открыть_сайт--портфолио-masterofowls.github.io-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://masterofowls.github.io/Masterofowls/)
 
 <sub>Открыт к сотрудничеству и новым возможностям — не стесняйтесь написать!</sub>

@@ -239,6 +239,8 @@ Developed a lightweight, high-performance desktop file manager using Tauri. Feat
 
 [![Message on Telegram](https://img.shields.io/badge/💬_Message_on_Telegram-%40froggytalents-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/froggytalents)
 
+[![Chat on Discord](https://img.shields.io/badge/🎮_Chat_on_Discord-%40maestroofowls-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/channels/@maestroofowls)
+
 [![Visit Portfolio Website](https://img.shields.io/badge/🌐_Visit_Portfolio_Website-masterofowls.github.io-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://masterofowls.github.io/Masterofowls/)
 
 <sub>Open to collaboration and new opportunities — feel free to reach out!</sub>
