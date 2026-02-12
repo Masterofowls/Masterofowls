@@ -4,6 +4,8 @@
 &nbsp;&nbsp;
 [![Русский](https://img.shields.io/badge/🇷🇺_Русский-00D9FF?style=for-the-badge&labelColor=0D1117)](README.ru.md)
 
+<sub>⬆️ Нажмите для смены языка / Click to switch language</sub>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Даниил+Штаркман;Web-разработчик+%7C+Backend-инженер;DevOps-инженер+%7C+Системный+администратор;Python-разработчик+%7C+Desktop-разработчик" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Masterofowls?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/Masterofowls)
@@ -202,10 +204,12 @@ Fullstack-разработчик, DevOps-инженер и системный а
 > Активно программирую **6 лет**. Получил диплом сертифицированного **тестировщика ПО** в 2023 году. В настоящее время завершаю программу **веб-разработки** в IT Колледже Хекслет, выпуск ожидается в 2026 году.
 
 <details>
-<summary><b>Диплом по тестированию ПО</b></summary>
+<summary><b>📜 Диплом по тестированию ПО — нажмите, чтобы посмотреть</b></summary>
 <div align="center">
 <br>
 <img src="diploma.jpg" alt="Диплом по тестированию ПО — Компьютерная Академия ШАГ, 2023" width="600" />
+<br><br>
+<sub>Компьютерная Академия ШАГ — Тестирование ПО, 2023</sub>
 </div>
 </details>
 
@@ -227,12 +231,16 @@ Fullstack-разработчик, DevOps-инженер и системный а
 
 ---
 
-## Контакты
+## Связаться со мной
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mrdaniilsht%40gmail.com-00D9FF?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mrdaniilsht@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40froggytalents-00D9FF?style=flat-square&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/froggytalents)
-[![Portfolio](https://img.shields.io/badge/Портфолио-Сайт-00D9FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://masterofowls.github.io/Masterofowls/)
+[![Написать Email](https://img.shields.io/badge/📧_Написать_Email-mrdaniilsht%40gmail.com-00D9FF?style=for-the-badge&labelColor=0D1117)](mailto:mrdaniilsht@gmail.com)
+
+[![Написать в Telegram](https://img.shields.io/badge/💬_Написать_в_Telegram-%40froggytalents-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/froggytalents)
+
+[![Открыть сайт-портфолио](https://img.shields.io/badge/🌐_Открыть_сайт--портфолио-masterofowls.github.io-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://masterofowls.github.io/Masterofowls/)
+
+<sub>Открыт к сотрудничеству и новым возможностям — не стесняйтесь написать!</sub>
 
 </div>

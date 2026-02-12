@@ -4,6 +4,8 @@
 &nbsp;&nbsp;
 [![Русский](https://img.shields.io/badge/🇷🇺_Русский-555555?style=for-the-badge&labelColor=0D1117)](README.ru.md)
 
+<sub>⬆️ Click to switch language / Нажмите для смены языка</sub>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Daniil+Shtarkman;Web+Developer+%7C+Backend+Engineer;DevOps+Engineer+%7C+System+Administrator;Python+Developer+%7C+Desktop+App+Developer" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Masterofowls?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/Masterofowls)
@@ -202,10 +204,12 @@ Developed a lightweight, high-performance desktop file manager using Tauri. Feat
 > Actively programming for **6 years**. Graduated as a certified **Software Tester** in 2023. Currently completing a **Web Development** program at Hexlet IT College, expected graduation in 2026.
 
 <details>
-<summary><b>Software Testing Diploma</b></summary>
+<summary><b>📜 Software Testing Diploma — click to view</b></summary>
 <div align="center">
 <br>
 <img src="diploma.jpg" alt="Software Testing Diploma — Computer Academy STEP, 2023" width="600" />
+<br><br>
+<sub>Computer Academy STEP — Software Testing, 2023</sub>
 </div>
 </details>
 
@@ -227,12 +231,16 @@ Developed a lightweight, high-performance desktop file manager using Tauri. Feat
 
 ---
 
-## Contact
+## Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mrdaniilsht%40gmail.com-00D9FF?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mrdaniilsht@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40froggytalents-00D9FF?style=flat-square&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/froggytalents)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00D9FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://masterofowls.github.io/Masterofowls/)
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-mrdaniilsht%40gmail.com-00D9FF?style=for-the-badge&labelColor=0D1117)](mailto:mrdaniilsht@gmail.com)
+
+[![Message on Telegram](https://img.shields.io/badge/💬_Message_on_Telegram-%40froggytalents-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/froggytalents)
+
+[![Visit Portfolio Website](https://img.shields.io/badge/🌐_Visit_Portfolio_Website-masterofowls.github.io-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://masterofowls.github.io/Masterofowls/)
+
+<sub>Open to collaboration and new opportunities — feel free to reach out!</sub>
 
 </div>
