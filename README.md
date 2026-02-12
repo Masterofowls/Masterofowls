@@ -1,18 +1,8 @@
 <div align="center">
 
-[![English](https://img.shields.io/badge/EN-English-00D9FF?style=flat-square&labelColor=0D1117)](README.md)
-[![Russian](https://img.shields.io/badge/RU-Русский-00D9FF?style=flat-square&labelColor=0D1117)](README.ru.md)
-[![German](https://img.shields.io/badge/DE-Deutsch-00D9FF?style=flat-square&labelColor=0D1117)](README.de.md)
-[![Spanish](https://img.shields.io/badge/ES-Español-00D9FF?style=flat-square&labelColor=0D1117)](README.es.md)
-[![French](https://img.shields.io/badge/FR-Français-00D9FF?style=flat-square&labelColor=0D1117)](README.fr.md)
-[![Portuguese](https://img.shields.io/badge/PT-Português-00D9FF?style=flat-square&labelColor=0D1117)](README.pt.md)
-[![Arabic](https://img.shields.io/badge/AR-العربية-00D9FF?style=flat-square&labelColor=0D1117)](README.ar.md)
-[![Hindi](https://img.shields.io/badge/HI-हिन्दी-00D9FF?style=flat-square&labelColor=0D1117)](README.hi.md)
-[![Japanese](https://img.shields.io/badge/JP-日本語-00D9FF?style=flat-square&labelColor=0D1117)](README.ja.md)
-[![Chinese](https://img.shields.io/badge/CN-中文-00D9FF?style=flat-square&labelColor=0D1117)](README.zh.md)
-[![Vietnamese](https://img.shields.io/badge/VN-Tiếng_Việt-00D9FF?style=flat-square&labelColor=0D1117)](README.vi.md)
-[![Malay](https://img.shields.io/badge/MY-Bahasa-00D9FF?style=flat-square&labelColor=0D1117)](README.ms.md)
-[![Thai](https://img.shields.io/badge/TH-ภาษาไทย-00D9FF?style=flat-square&labelColor=0D1117)](README.th.md)
+[![English](https://img.shields.io/badge/🇬🇧_English-00D9FF?style=for-the-badge&labelColor=0D1117)](README.md)
+&nbsp;&nbsp;
+[![Русский](https://img.shields.io/badge/🇷🇺_Русский-555555?style=for-the-badge&labelColor=0D1117)](README.ru.md)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Daniil+Shtarkman;Web+Developer+%7C+Backend+Engineer;DevOps+Engineer+%7C+System+Administrator;Python+Developer+%7C+Desktop+App+Developer" alt="Typing SVG" />
 
@@ -210,6 +200,14 @@ Developed a lightweight, high-performance desktop file manager using Tauri. Feat
 | **Computer Academy STEP** | Software Testing (diploma) | 2021 — 2023            |
 
 > Actively programming for **6 years**. Graduated as a certified **Software Tester** in 2023. Currently completing a **Web Development** program at Hexlet IT College, expected graduation in 2026.
+
+<details>
+<summary><b>Software Testing Diploma</b></summary>
+<div align="center">
+<br>
+<img src="diploma.jpg" alt="Software Testing Diploma — Computer Academy STEP, 2023" width="600" />
+</div>
+</details>
 
 ---
 
