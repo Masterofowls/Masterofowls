@@ -241,8 +241,6 @@
 
 ![Top Languages](assets/metrics/languages.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Masterofowls&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=10)
-
 </div>
 
 ---

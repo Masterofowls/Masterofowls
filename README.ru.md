@@ -224,8 +224,6 @@ Fullstack-разработчик, DevOps-инженер и системный а
 
 <img src="assets/metrics/languages.svg" alt="Наиболее используемые языки" />
 
-<img src="https://streak-stats.demolab.com/?user=Masterofowls&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=10" alt="GitHub Streak" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masterofowls&theme=github-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF" alt="Contribution Graph" />
 
 <br><br>

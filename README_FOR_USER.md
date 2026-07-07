@@ -53,9 +53,7 @@ Your GitHub profile has been completely redesigned from a gaming-focused persona
 
 ### Real-Time Statistics
 - 📈 GitHub contribution stats
-- 🔥 Contribution streak
 - 📊 Activity graph
-- 🏆 GitHub trophies
 - 💻 WakaTime coding time (once configured)
 - 🐍 Contribution snake animation
 - 🌍 Language usage chart
