@@ -16,7 +16,7 @@
 [![Malay](https://img.shields.io/badge/MY-Bahasa-00D9FF?style=flat-square&labelColor=0D1117)](README.ms.md)
 [![Thai](https://img.shields.io/badge/TH-ภาษาไทย-00D9FF?style=flat-square&labelColor=0D1117)](README.th.md)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Daniil+Shtarkman;Desenvolvedor+Fullstack;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Django+%7C+FastAPI+%7C+Electron;Docker+%7C+CI%2FCD+%7C+Testing+%7C+Deployment" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Daniil+Shtarkman;Desenvolvedor+Fullstack;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Django+%7C+FastAPI+%7C+Electron;Docker+%7C+CI%2FCD+%7C+Testing+%7C+Deployment" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Masterofowls?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/Masterofowls)
 [![Profile Views](https://komarev.com/ghpvc/?username=Masterofowls&color=00D9FF&style=flat-square&label=Visualizações)](https://github.com/Masterofowls)
@@ -237,11 +237,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Masterofowls&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10)
+![GitHub Stats](assets/metrics/metrics.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Masterofowls&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10)
+![Top Languages](assets/metrics/languages.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Masterofowls&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Masterofowls&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=10)
 
 </div>
 

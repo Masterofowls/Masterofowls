@@ -6,7 +6,7 @@
 
 <sub>⬆️ Нажмите для смены языка / Click to switch language</sub>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Даниил+Штаркман;Web-разработчик+%7C+Backend-инженер;DevOps-инженер+%7C+Системный+администратор;Python-разработчик+%7C+Desktop-разработчик" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Даниил+Штаркман;Web-разработчик+%7C+Backend-инженер;DevOps-инженер+%7C+Системный+администратор;Python-разработчик+%7C+Desktop-разработчик" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Masterofowls?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/Masterofowls)
 [![Profile Views](https://komarev.com/ghpvc/?username=Masterofowls&color=00D9FF&style=flat-square&label=Views)](https://github.com/Masterofowls)
@@ -219,13 +219,22 @@ Fullstack-разработчик, DevOps-инженер и системный а
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Masterofowls&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" />
+<!-- Карточки статистики генерируются воркфлоу Metrics и коммитятся в репозиторий (без лимитов) -->
+<img src="assets/metrics/metrics.svg" alt="GitHub Metrics — активность, репозитории и сообщество" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Masterofowls&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=10" alt="GitHub Streak" />
+<img src="assets/metrics/languages.svg" alt="Наиболее используемые языки" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterofowls&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=Masterofowls&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=10" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masterofowls&theme=github-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF" alt="Contribution Graph" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="output/github-snake.svg" />
+</picture>
 
 </div>
 

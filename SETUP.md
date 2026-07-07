@@ -66,18 +66,30 @@ You can manually trigger workflows from the Actions tab:
 
 ## 📊 Stats Services Used
 
-- **GitHub Stats**: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- **GitHub Streak**: [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- **Overview stats & languages**: [lowlighter/metrics](https://github.com/lowlighter/metrics) — self-generated SVGs committed to `assets/metrics/` (no external rate limits)
+- **GitHub Streak**: [streak-stats.demolab.com](https://github.com/DenverCoder1/github-readme-streak-stats)
 - **Activity Graph**: [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- **Trophies**: [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-- **Typing SVG**: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+- **Typing SVG**: [readme-typing-svg.demolab.com](https://github.com/DenverCoder1/readme-typing-svg)
 - **WakaTime**: [waka-readme (athul)](https://github.com/athul/waka-readme)
 - **Snake Animation**: [snk](https://github.com/Platane/snk)
+
+> **Why committed SVGs?** The shared public `github-readme-stats.vercel.app` and
+> `github-profile-trophy.vercel.app` instances are frequently rate-limited (HTTP 503/402),
+> which is why stat cards often fail to render. The `Metrics` workflow renders the cards
+> on a schedule and commits them into the repo, so they always load.
+
+### Optional: richer metrics
+
+The `Metrics` workflow runs with the built-in `GITHUB_TOKEN`, which is enough for public
+profile stats. For private-contribution counts and extra plugins, create a
+[personal access token](https://github.com/settings/tokens) and add it as a repository
+secret named `METRICS_TOKEN`.
 
 ## 🔄 Update Frequency
 
 - **WakaTime Stats**: Daily at 00:00 UTC
 - **Profile Stats & Snake**: Every 6 hours
+- **Metrics cards (overview + languages)**: Every 12 hours and on push to main
 - **Translations**: On every push to main branch that modifies README.md
 
 ## 🐛 Troubleshooting

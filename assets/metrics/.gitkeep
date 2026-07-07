@@ -1,0 +1,2 @@
+# Metrics stat cards (metrics.svg, languages.svg) are generated and committed
+# by .github/workflows/metrics.yml. This file keeps the directory tracked.
