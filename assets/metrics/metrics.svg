@@ -15,7 +15,7 @@
     </g>
     <g transform="translate(0, 90)" style="animation: fadeIn 0.5s ease-in-out forwards; animation-delay: 420ms; opacity: 0;">
       <text x="25" y="0" class="stat">Commits (last year)</text>
-      <text x="470" y="0" class="value" text-anchor="end">530</text>
+      <text x="470" y="0" class="value" text-anchor="end">533</text>
     </g>
     <g transform="translate(0, 110)" style="animation: fadeIn 0.5s ease-in-out forwards; animation-delay: 540ms; opacity: 0;">
       <text x="25" y="0" class="stat">Total PRs</text>
