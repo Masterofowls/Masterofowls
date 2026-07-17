@@ -26,7 +26,6 @@ Fullstack Developer, DevOps Engineer, and System Administrator with **6 years** 
 | **Web Developer**         | React, Next.js, TypeScript — responsive SPA/SSR applications          |
 | **Backend Engineer**      | Python (Django, FastAPI, Flask), Node.js — REST & GraphQL API design  |
 | **DevOps Engineer**       | Docker, CI/CD (GitHub Actions, GitLab CI), Nginx, SSL/TLS, monitoring |
-| **System Administrator**  | Linux (Ubuntu/Debian) & Windows server management, SSH, systemd, cron |
 | **Python Developer**      | Automation, bots, data processing, scripting, async frameworks        |
 | **Desktop App Developer** | Tauri, Electron.js — cross-platform native applications               |
 
@@ -54,10 +53,9 @@ Fullstack Developer, DevOps Engineer, and System Administrator with **6 years** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=0D1117)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=0D1117)
+
 
 </div>
 
@@ -75,11 +73,10 @@ Fullstack Developer, DevOps Engineer, and System Administrator with **6 years** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=0D1117)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0D1117)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0D1117)
+
 
 </div>
 
@@ -97,19 +94,15 @@ Fullstack Developer, DevOps Engineer, and System Administrator with **6 years** 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D1117)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=0D1117)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0D1117)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0D1117)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&labelColor=0D1117)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white&labelColor=0D1117)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white&labelColor=0D1117)
+
+
 
 </div>
 
 - Docker: Dockerfile, docker-compose, multi-stage builds, image optimization
 - CI/CD: GitHub Actions, GitLab CI — automated testing, build, deploy pipelines
-- Linux (Ubuntu/Debian): VPS administration, SSH, systemd, cron, firewall, monitoring
-- Windows: advanced system administration, PowerShell scripting, environment management
 - Nginx: reverse proxy, SSL/TLS (Let's Encrypt), static file serving, load balancing
 - Git: branching strategies, merge/rebase, GitFlow, code review
 
@@ -122,7 +115,6 @@ Fullstack Developer, DevOps Engineer, and System Administrator with **6 years** 
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black&labelColor=0D1117)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white&labelColor=0D1117)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white&labelColor=0D1117)
 
 </div>
 
