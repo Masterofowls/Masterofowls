@@ -19,7 +19,7 @@
 
 ## About Me
 
-Fullstack Developer, DevOps Engineer, and System Administrator with **6 years** of hands-on programming experience. I build and maintain full-cycle software solutions — from interactive frontends and robust backend services to containerized deployments and server infrastructure. Equally proficient on **Windows** and **Linux**, I operate at every layer of the stack: writing production-grade code, automating CI/CD pipelines, managing databases, configuring web servers, and administering VPS environments.
+Fullstack Developer, DevOps Engineer, and System Administrator with **4 years** of hands-on programming experience. I build and maintain full-cycle software solutions — from interactive frontends and robust backend services to containerized deployments and server infrastructure. Equally proficient on **Windows** and **Linux**, I operate at every layer of the stack: writing production-grade code, automating CI/CD pipelines, managing databases, configuring web servers, and administering VPS environments.
 
 | Role                      | Focus                                                                 |
 | :------------------------ | :-------------------------------------------------------------------- |
