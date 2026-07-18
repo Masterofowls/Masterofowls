@@ -11,11 +11,11 @@
   <line x1="25" y1="52" x2="470" y2="52" stroke="#00D9FF" stroke-opacity="0.35" />
     <g transform="translate(0, 70)" style="animation: fadeIn 0.5s ease-in-out forwards; animation-delay: 300ms; opacity: 0;">
       <text x="25" y="0" class="stat">Total Stars Earned</text>
-      <text x="470" y="0" class="value" text-anchor="end">43</text>
+      <text x="470" y="0" class="value" text-anchor="end">45</text>
     </g>
     <g transform="translate(0, 90)" style="animation: fadeIn 0.5s ease-in-out forwards; animation-delay: 420ms; opacity: 0;">
       <text x="25" y="0" class="stat">Commits (last year)</text>
-      <text x="470" y="0" class="value" text-anchor="end">555</text>
+      <text x="470" y="0" class="value" text-anchor="end">587</text>
     </g>
     <g transform="translate(0, 110)" style="animation: fadeIn 0.5s ease-in-out forwards; animation-delay: 540ms; opacity: 0;">
       <text x="25" y="0" class="stat">Total PRs</text>
@@ -31,6 +31,6 @@
     </g>
     <g transform="translate(0, 170)" style="animation: fadeIn 0.5s ease-in-out forwards; animation-delay: 900ms; opacity: 0;">
       <text x="25" y="0" class="stat">Public Repos</text>
-      <text x="470" y="0" class="value" text-anchor="end">139</text>
+      <text x="470" y="0" class="value" text-anchor="end">140</text>
     </g>
 </svg>
