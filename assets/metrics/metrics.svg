@@ -15,7 +15,7 @@
     </g>
     <g transform="translate(0, 90)" style="animation: fadeIn 0.5s ease-in-out forwards; animation-delay: 420ms; opacity: 0;">
       <text x="25" y="0" class="stat">Commits (last year)</text>
-      <text x="470" y="0" class="value" text-anchor="end">593</text>
+      <text x="470" y="0" class="value" text-anchor="end">595</text>
     </g>
     <g transform="translate(0, 110)" style="animation: fadeIn 0.5s ease-in-out forwards; animation-delay: 540ms; opacity: 0;">
       <text x="25" y="0" class="stat">Total PRs</text>
@@ -31,6 +31,6 @@
     </g>
     <g transform="translate(0, 170)" style="animation: fadeIn 0.5s ease-in-out forwards; animation-delay: 900ms; opacity: 0;">
       <text x="25" y="0" class="stat">Public Repos</text>
-      <text x="470" y="0" class="value" text-anchor="end">145</text>
+      <text x="470" y="0" class="value" text-anchor="end">148</text>
     </g>
 </svg>
