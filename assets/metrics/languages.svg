@@ -9,11 +9,11 @@
   <clipPath id="barclip"><rect x="25" y="62" width="445" height="10" rx="5" /></clipPath>
   <g clip-path="url(#barclip)">
     <rect x="25" y="62" width="445" height="10" fill="#21262D" />
-    <rect x="25.00" y="62" width="254.52" height="10" fill="#3572A5" /><rect x="279.52" y="62" width="58.90" height="10" fill="#3178c6" /><rect x="338.42" y="62" width="58.89" height="10" fill="#fcb32c" /><rect x="397.31" y="62" width="46.17" height="10" fill="#e34c26" /><rect x="443.48" y="62" width="14.70" height="10" fill="#f1e05a" /><rect x="458.18" y="62" width="6.81" height="10" fill="#663399" /><rect x="464.99" y="62" width="2.53" height="10" fill="#ff5a03" /><rect x="467.53" y="62" width="2.47" height="10" fill="#012456" />
+    <rect x="25.00" y="62" width="254.51" height="10" fill="#3572A5" /><rect x="279.51" y="62" width="58.90" height="10" fill="#3178c6" /><rect x="338.41" y="62" width="58.88" height="10" fill="#fcb32c" /><rect x="397.29" y="62" width="46.17" height="10" fill="#e34c26" /><rect x="443.46" y="62" width="14.72" height="10" fill="#f1e05a" /><rect x="458.18" y="62" width="6.81" height="10" fill="#663399" /><rect x="464.99" y="62" width="2.53" height="10" fill="#ff5a03" /><rect x="467.53" y="62" width="2.47" height="10" fill="#012456" />
   </g>
   <g transform="translate(25, 96)">
     <circle cx="6" cy="-4" r="5" fill="#3572A5" />
-    <text x="18" y="0" class="lang">Python 57.20%</text>
+    <text x="18" y="0" class="lang">Python 57.19%</text>
   </g>
   <g transform="translate(247.5, 96)">
     <circle cx="6" cy="-4" r="5" fill="#3178c6" />
@@ -29,7 +29,7 @@
   </g>
   <g transform="translate(25, 148)">
     <circle cx="6" cy="-4" r="5" fill="#f1e05a" />
-    <text x="18" y="0" class="lang">JavaScript 3.30%</text>
+    <text x="18" y="0" class="lang">JavaScript 3.31%</text>
   </g>
   <g transform="translate(247.5, 148)">
     <circle cx="6" cy="-4" r="5" fill="#663399" />
