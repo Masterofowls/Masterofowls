@@ -9,38 +9,38 @@
   <clipPath id="barclip"><rect x="25" y="62" width="445" height="10" rx="5" /></clipPath>
   <g clip-path="url(#barclip)">
     <rect x="25" y="62" width="445" height="10" fill="#21262D" />
-    <rect x="25.00" y="62" width="254.51" height="10" fill="#3572A5" /><rect x="279.51" y="62" width="58.90" height="10" fill="#3178c6" /><rect x="338.41" y="62" width="58.88" height="10" fill="#fcb32c" /><rect x="397.29" y="62" width="46.17" height="10" fill="#e34c26" /><rect x="443.46" y="62" width="14.72" height="10" fill="#f1e05a" /><rect x="458.18" y="62" width="6.81" height="10" fill="#663399" /><rect x="464.99" y="62" width="2.53" height="10" fill="#ff5a03" /><rect x="467.53" y="62" width="2.47" height="10" fill="#012456" />
+    <rect x="25.00" y="62" width="254.12" height="10" fill="#3572A5" /><rect x="279.12" y="62" width="59.27" height="10" fill="#3178c6" /><rect x="338.38" y="62" width="58.79" height="10" fill="#fcb32c" /><rect x="397.17" y="62" width="46.10" height="10" fill="#e34c26" /><rect x="443.28" y="62" width="14.70" height="10" fill="#f1e05a" /><rect x="457.98" y="62" width="6.92" height="10" fill="#663399" /><rect x="464.90" y="62" width="2.58" height="10" fill="#012456" /><rect x="467.47" y="62" width="2.53" height="10" fill="#ff5a03" />
   </g>
   <g transform="translate(25, 96)">
     <circle cx="6" cy="-4" r="5" fill="#3572A5" />
-    <text x="18" y="0" class="lang">Python 57.19%</text>
+    <text x="18" y="0" class="lang">Python 57.10%</text>
   </g>
   <g transform="translate(247.5, 96)">
     <circle cx="6" cy="-4" r="5" fill="#3178c6" />
-    <text x="18" y="0" class="lang">TypeScript 13.24%</text>
+    <text x="18" y="0" class="lang">TypeScript 13.32%</text>
   </g>
   <g transform="translate(25, 122)">
     <circle cx="6" cy="-4" r="5" fill="#fcb32c" />
-    <text x="18" y="0" class="lang">MDX 13.23%</text>
+    <text x="18" y="0" class="lang">MDX 13.21%</text>
   </g>
   <g transform="translate(247.5, 122)">
     <circle cx="6" cy="-4" r="5" fill="#e34c26" />
-    <text x="18" y="0" class="lang">HTML 10.38%</text>
+    <text x="18" y="0" class="lang">HTML 10.36%</text>
   </g>
   <g transform="translate(25, 148)">
     <circle cx="6" cy="-4" r="5" fill="#f1e05a" />
-    <text x="18" y="0" class="lang">JavaScript 3.31%</text>
+    <text x="18" y="0" class="lang">JavaScript 3.30%</text>
   </g>
   <g transform="translate(247.5, 148)">
     <circle cx="6" cy="-4" r="5" fill="#663399" />
-    <text x="18" y="0" class="lang">CSS 1.53%</text>
+    <text x="18" y="0" class="lang">CSS 1.56%</text>
   </g>
   <g transform="translate(25, 174)">
-    <circle cx="6" cy="-4" r="5" fill="#ff5a03" />
-    <text x="18" y="0" class="lang">Astro 0.57%</text>
+    <circle cx="6" cy="-4" r="5" fill="#012456" />
+    <text x="18" y="0" class="lang">PowerShell 0.58%</text>
   </g>
   <g transform="translate(247.5, 174)">
-    <circle cx="6" cy="-4" r="5" fill="#012456" />
-    <text x="18" y="0" class="lang">PowerShell 0.56%</text>
+    <circle cx="6" cy="-4" r="5" fill="#ff5a03" />
+    <text x="18" y="0" class="lang">Astro 0.57%</text>
   </g>
 </svg>
