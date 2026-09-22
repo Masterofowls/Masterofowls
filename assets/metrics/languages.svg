@@ -9,23 +9,23 @@
   <clipPath id="barclip"><rect x="25" y="62" width="445" height="10" rx="5" /></clipPath>
   <g clip-path="url(#barclip)">
     <rect x="25" y="62" width="445" height="10" fill="#21262D" />
-    <rect x="25.00" y="62" width="238.76" height="10" fill="#3572A5" /><rect x="263.76" y="62" width="66.24" height="10" fill="#e34c26" /><rect x="330.00" y="62" width="58.91" height="10" fill="#3178c6" /><rect x="388.91" y="62" width="49.87" height="10" fill="#fcb32c" /><rect x="438.77" y="62" width="18.07" height="10" fill="#f1e05a" /><rect x="456.85" y="62" width="6.20" height="10" fill="#663399" /><rect x="463.05" y="62" width="4.17" height="10" fill="#3D6117" /><rect x="467.22" y="62" width="2.78" height="10" fill="#012456" />
+    <rect x="25.00" y="62" width="238.35" height="10" fill="#3572A5" /><rect x="263.35" y="62" width="66.12" height="10" fill="#e34c26" /><rect x="329.47" y="62" width="59.56" height="10" fill="#3178c6" /><rect x="389.03" y="62" width="49.78" height="10" fill="#fcb32c" /><rect x="438.81" y="62" width="18.05" height="10" fill="#f1e05a" /><rect x="456.86" y="62" width="6.20" height="10" fill="#663399" /><rect x="463.06" y="62" width="4.16" height="10" fill="#3D6117" /><rect x="467.22" y="62" width="2.78" height="10" fill="#012456" />
   </g>
   <g transform="translate(25, 96)">
     <circle cx="6" cy="-4" r="5" fill="#3572A5" />
-    <text x="18" y="0" class="lang">Python 53.65%</text>
+    <text x="18" y="0" class="lang">Python 53.56%</text>
   </g>
   <g transform="translate(247.5, 96)">
     <circle cx="6" cy="-4" r="5" fill="#e34c26" />
-    <text x="18" y="0" class="lang">HTML 14.88%</text>
+    <text x="18" y="0" class="lang">HTML 14.86%</text>
   </g>
   <g transform="translate(25, 122)">
     <circle cx="6" cy="-4" r="5" fill="#3178c6" />
-    <text x="18" y="0" class="lang">TypeScript 13.24%</text>
+    <text x="18" y="0" class="lang">TypeScript 13.38%</text>
   </g>
   <g transform="translate(247.5, 122)">
     <circle cx="6" cy="-4" r="5" fill="#fcb32c" />
-    <text x="18" y="0" class="lang">MDX 11.21%</text>
+    <text x="18" y="0" class="lang">MDX 11.19%</text>
   </g>
   <g transform="translate(25, 148)">
     <circle cx="6" cy="-4" r="5" fill="#f1e05a" />
@@ -37,7 +37,7 @@
   </g>
   <g transform="translate(25, 174)">
     <circle cx="6" cy="-4" r="5" fill="#3D6117" />
-    <text x="18" y="0" class="lang">TeX 0.94%</text>
+    <text x="18" y="0" class="lang">TeX 0.93%</text>
   </g>
   <g transform="translate(247.5, 174)">
     <circle cx="6" cy="-4" r="5" fill="#012456" />
