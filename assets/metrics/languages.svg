@@ -9,7 +9,7 @@
   <clipPath id="barclip"><rect x="25" y="62" width="445" height="10" rx="5" /></clipPath>
   <g clip-path="url(#barclip)">
     <rect x="25" y="62" width="445" height="10" fill="#21262D" />
-    <rect x="25.00" y="62" width="238.39" height="10" fill="#3572A5" /><rect x="263.39" y="62" width="66.14" height="10" fill="#e34c26" /><rect x="329.53" y="62" width="59.48" height="10" fill="#3178c6" /><rect x="389.01" y="62" width="49.79" height="10" fill="#fcb32c" /><rect x="438.80" y="62" width="18.06" height="10" fill="#f1e05a" /><rect x="456.86" y="62" width="6.20" height="10" fill="#663399" /><rect x="463.06" y="62" width="4.16" height="10" fill="#3D6117" /><rect x="467.22" y="62" width="2.78" height="10" fill="#012456" />
+    <rect x="25.00" y="62" width="238.37" height="10" fill="#3572A5" /><rect x="263.37" y="62" width="66.13" height="10" fill="#e34c26" /><rect x="329.50" y="62" width="59.48" height="10" fill="#3178c6" /><rect x="388.97" y="62" width="49.79" height="10" fill="#fcb32c" /><rect x="438.76" y="62" width="18.07" height="10" fill="#f1e05a" /><rect x="456.83" y="62" width="6.20" height="10" fill="#663399" /><rect x="463.04" y="62" width="4.16" height="10" fill="#3D6117" /><rect x="467.20" y="62" width="2.80" height="10" fill="#012456" />
   </g>
   <g transform="translate(25, 96)">
     <circle cx="6" cy="-4" r="5" fill="#3572A5" />
@@ -37,10 +37,10 @@
   </g>
   <g transform="translate(25, 174)">
     <circle cx="6" cy="-4" r="5" fill="#3D6117" />
-    <text x="18" y="0" class="lang">TeX 0.94%</text>
+    <text x="18" y="0" class="lang">TeX 0.93%</text>
   </g>
   <g transform="translate(247.5, 174)">
     <circle cx="6" cy="-4" r="5" fill="#012456" />
-    <text x="18" y="0" class="lang">PowerShell 0.62%</text>
+    <text x="18" y="0" class="lang">PowerShell 0.63%</text>
   </g>
 </svg>
