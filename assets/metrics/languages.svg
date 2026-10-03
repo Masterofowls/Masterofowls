@@ -9,7 +9,7 @@
   <clipPath id="barclip"><rect x="25" y="62" width="445" height="10" rx="5" /></clipPath>
   <g clip-path="url(#barclip)">
     <rect x="25" y="62" width="445" height="10" fill="#21262D" />
-    <rect x="25.00" y="62" width="238.25" height="10" fill="#3572A5" /><rect x="263.25" y="62" width="65.90" height="10" fill="#e34c26" /><rect x="329.16" y="62" width="59.27" height="10" fill="#3178c6" /><rect x="388.43" y="62" width="49.62" height="10" fill="#fcb32c" /><rect x="438.05" y="62" width="18.25" height="10" fill="#f1e05a" /><rect x="456.30" y="62" width="6.18" height="10" fill="#663399" /><rect x="462.48" y="62" width="4.15" height="10" fill="#3D6117" /><rect x="466.63" y="62" width="3.37" height="10" fill="#222c37" />
+    <rect x="25.00" y="62" width="238.26" height="10" fill="#3572A5" /><rect x="263.26" y="62" width="65.90" height="10" fill="#e34c26" /><rect x="329.16" y="62" width="59.27" height="10" fill="#3178c6" /><rect x="388.43" y="62" width="49.61" height="10" fill="#fcb32c" /><rect x="438.05" y="62" width="18.25" height="10" fill="#f1e05a" /><rect x="456.30" y="62" width="6.18" height="10" fill="#663399" /><rect x="462.48" y="62" width="4.15" height="10" fill="#3D6117" /><rect x="466.63" y="62" width="3.37" height="10" fill="#222c37" />
   </g>
   <g transform="translate(25, 96)">
     <circle cx="6" cy="-4" r="5" fill="#3572A5" />
