@@ -7,9 +7,18 @@
 <meta name="description" content="Daniil Shtarkman (Masterofowls) — fullstack developer building web, mobile and desktop applications with React, Python, Node.js and Docker.">
 <meta name="author" content="Daniil Shtarkman">
 <meta name="theme-color" content="#0b0d0c">
+<link rel="canonical" href="https://masterofowls.github.io/Masterofowls/">
+<link rel="alternate" hreflang="en" href="https://masterofowls.github.io/Masterofowls/">
+<link rel="alternate" hreflang="ru" href="https://masterofowls.github.io/Masterofowls/?lang=ru">
+<link rel="alternate" hreflang="x-default" href="https://masterofowls.github.io/Masterofowls/">
 <meta property="og:type" content="website">
+<meta property="og:url" content="https://masterofowls.github.io/Masterofowls/">
 <meta property="og:title" content="Daniil Shtarkman — Fullstack developer">
 <meta property="og:description" content="Fullstack apps, from database to desktop. React, Python, Node.js, Docker, Tauri.">
+<meta property="og:image" content="https://masterofowls.github.io/Masterofowls/photo.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="943">
+<meta property="og:image:alt" content="Daniil Shtarkman">
 <meta name="twitter:card" content="summary">
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23c8f25a'/%3E%3Ctext x='16' y='21' text-anchor='middle' font-family='monospace' font-weight='700' font-size='14' fill='%230b0d0c'%3EDS%3C/text%3E%3C/svg%3E">
@@ -79,7 +88,7 @@ section[id] { scroll-margin-top: 76px; }
 .mo-nav-inner { display: flex; align-items: center; justify-content: space-between; height: 68px; gap: var(--space-6); }
 .mo-logo { display: inline-flex; align-items: center; gap: 10px; font: 500 15px/20px var(--font-mono); text-decoration: none; color: var(--ink); }
 .mo-logo-mark { width: 30px; height: 30px; border-radius: var(--radius-sm); background: var(--accent); color: var(--accent-ink); display: grid; place-items: center; font: 600 13px/1 var(--font-mono); letter-spacing: -.04em; }
-.mo-logo span { color: var(--ink-subtle); }
+.mo-logo-tld { color: var(--ink-subtle); }
 .mo-nav-links { display: flex; gap: var(--space-1); list-style: none; margin: 0; padding: 0; }
 .mo-nav-links a { display: block; padding: 8px 10px; white-space: nowrap; border-radius: var(--radius-sm); font: 500 14px/20px var(--font-sans); color: var(--ink-muted); text-decoration: none; transition: color .15s ease, background .15s ease; }
 .mo-nav-links a:hover, .mo-nav-links a[aria-current] { color: var(--ink); background: var(--surface-300); }
@@ -182,12 +191,6 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
 .mo-bar.on { background: var(--accent); }
 .mo-tile { aspect-ratio: 1; border-radius: 6px; background: var(--surface-200); border: 1px solid var(--line); }
 .mo-tile.on { background: var(--accent-soft); border-color: var(--accent); }
-.mo-shot-wave { position: absolute; inset: 22px 0 0; display: flex; align-items: center; justify-content: center; gap: 4px; padding: 0 16px; }
-.mo-shot-wave i { flex: 1; max-width: 6px; border-radius: 3px; background: var(--line-strong); }
-.mo-shot-wave i.on { background: var(--accent); }
-.mo-shot-chart { position: absolute; inset: 22px 0 0; padding: 14px; display: flex; align-items: end; gap: 6px; }
-.mo-shot-chart i { flex: 1; border-radius: 3px 3px 0 0; background: var(--line-strong); }
-.mo-shot-chart i.on { background: var(--amber); }
 .mo-shot-list { position: absolute; inset: 22px 0 0; padding: 12px 14px; display: flex; flex-direction: column; justify-content: center; gap: 9px; }
 .mo-shot-list > div { display: grid; grid-template-columns: 8px 1fr 22%; gap: 10px; align-items: center; }
 .mo-shot-list b { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); }
@@ -229,6 +232,8 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
 .mo-contact > * { position: relative; }
 .mo-contact h2 { font-size: 64px; line-height: 64px; letter-spacing: -.035em; font-weight: 600; margin: var(--space-4) 0 var(--space-8); text-wrap: balance; }
 .mo-contact .mo-eyebrow { color: var(--accent-ink); opacity: .7; }
+/* The default focus ring is the accent colour, which vanishes on this accent background. */
+.mo-contact :focus-visible { box-shadow: 0 0 0 2px var(--accent-ink); }
 .mo-contact .mo-btn-primary { background: var(--accent-ink); color: var(--accent); }
 .mo-contact .mo-btn-primary:hover { box-shadow: 0 8px 24px -8px #0b0d0c88; }
 .mo-contact .mo-btn-secondary { color: var(--accent-ink); border-color: #0b0d0c55; }
@@ -261,6 +266,7 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
 @media (max-width: 960px) {
   .mo-hero-grid, .mo-about, .mo-card-featured, .mo-contact { grid-template-columns: 1fr; }
   .mo-stack { grid-template-columns: repeat(2, 1fr); }
+  .mo-card-featured .mo-shot { aspect-ratio: 16 / 7; }
   .mo-steps { grid-template-columns: repeat(2, 1fr); row-gap: var(--space-12); }
   .mo-step:nth-child(2n)::after { right: 0; }
   .mo-display { font-size: 56px; line-height: 58px; }
@@ -276,6 +282,8 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
 }
 @media (max-width: 680px) {
   .mo-container { padding: 0 var(--space-4); }
+  .mo-nav-inner { gap: var(--space-2); }
+  .mo-logo-tld { display: none; }
   .mo-nav-actions .mo-btn { display: none; }
   .mo-section { padding: var(--space-16) 0; }
   .mo-section-head { margin-bottom: var(--space-8); }
@@ -297,6 +305,9 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
   .mo-term.mo-term-compact { width: 100%; }
   .mo-term-foot span:last-child { display: none; }
 }
+@media (max-width: 359px) {
+  .mo-logo-word { display: none; }
+}
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition: none !important; animation: none !important; }
@@ -307,7 +318,7 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
 <body>
 <a class="mo-skip" href="#main" data-i18n="skip">Skip to content</a>
 <header class="mo-nav" data-nav><div class="mo-container mo-nav-inner">
-  <a class="mo-logo" href="#top" data-i18n-aria="logoAria" aria-label="Daniil Shtarkman — home"><span class="mo-logo-mark" aria-hidden="true">DS</span>masterofowls<span>.dev</span></a>
+  <a class="mo-logo" href="#top" data-i18n-aria="logoAria" aria-label="Daniil Shtarkman — home"><span class="mo-logo-mark" aria-hidden="true">DS</span><span class="mo-logo-word">masterofowls<span class="mo-logo-tld">.dev</span></span></a>
   <nav data-i18n-aria="navAria" aria-label="Main"><ul class="mo-nav-links" id="mo-menu">
     <li><a href="#about"><i>01</i><span data-i18n="navAbout">About</span></a></li>
     <li><a href="#experience"><i>02</i><span data-i18n="navExp">Experience</span></a></li>
@@ -329,7 +340,7 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
   <div>
     <div class="mo-hero-kicker"><span class="mo-status" data-i18n="status">Focusing · Russia, UTC+3</span><span class="mo-local" data-clock></span></div>
     <h1 class="mo-display" data-i18n="heroTitle">Fullstack apps, from <em>database to desktop.</em></h1>
-    <p class="mo-lead" data-i18n="heroLead">My name is Daniil. I graduated from Hexlet IT College (2026) in web development. My hands-on experience comes from course projects and my own development work. I also hold a QA engineer diploma and use testing skills (E2E, API) while I build. Full cycle: APIs and database schemas, frontend, authentication, containerization and deployment. Open to junior fullstack / junior backend positions.</p>
+    <p class="mo-lead" data-i18n="heroLead">I’m Daniil, a fullstack developer who graduated from Hexlet IT College in web development (2026). I’m looking for a middle fullstack or middle backend role.</p>
     <div class="mo-row"><a class="mo-btn mo-btn-primary" href="#work"><span data-i18n="heroCta">See projects</span> <span class="mo-arrow mo-arrow-r">→</span></a><a class="mo-btn mo-btn-secondary" href="https://github.com/Masterofowls" rel="noopener">GitHub <span class="mo-arrow">↗</span></a></div>
   </div>
   <div class="mo-hero-visual">
@@ -356,9 +367,10 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
   <div class="mo-section-head"><div><span class="mo-eyebrow"><b>01</b> / <span data-i18n="navAbout">About</span></span><h2 class="mo-h1" data-i18n="aboutTitle">Full-cycle development.</h2></div></div>
   <div class="mo-about">
     <div class="mo-about-text mo-reveal">
-      <p data-i18n="aboutP1">I work across the <strong>full development cycle</strong> — frontend and backend, from project setup to deployment.</p>
+      <p data-i18n="aboutP1">I work across the <strong>full development cycle</strong>: APIs and database schemas, frontend, authentication, containerization and deployment.</p>
+      <p data-i18n="aboutP3">I also hold a <strong>QA engineer diploma</strong>, so I test what I build with E2E and API tests. My hands-on experience comes from course projects and my own development work.</p>
       <p data-i18n="aboutP2">I like <strong>hard problems</strong>, take long-term ownership of what I ship, and keep learning on my own every day.</p>
-      <div class="mo-row" style="margin-top:var(--space-6)"><a class="mo-link" href="#contact"><span data-i18n="aboutCta">Start a project</span> <span class="mo-arrow">→</span></a></div>
+      <div class="mo-row" style="margin-top:var(--space-6)"><a class="mo-link" href="#contact"><span data-i18n="aboutCta">Contact me</span> <span class="mo-arrow">→</span></a></div>
     </div>
     <div class="mo-services mo-reveal">
       <article class="mo-service"><span class="mo-service-n">01</span><h3 data-i18n="svc1T">Web applications</h3><p data-i18n="svc1D">Interfaces that stay fast as they grow — typed, tested, responsive.</p><span class="mo-service-stack">React · Next.js · TypeScript</span></article>
@@ -421,27 +433,9 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
         <div class="mo-card-links"><a class="mo-link" href="https://github.com/Masterofowls/API_Bot" rel="noopener"><span data-i18n="viewCode">View code</span> <span class="mo-arrow">↗</span></a></div>
       </div>
     </article>
-    <article class="mo-card mo-reveal">
-      <div class="mo-shot" aria-hidden="true"><div class="mo-shot-bar"><i></i><i></i><i></i></div><div class="mo-shot-wave"><i class="on" style="height:20%"></i><i class="on" style="height:35%"></i><i class="on" style="height:60%"></i><i class="on" style="height:42%"></i><i class="on" style="height:75%"></i><i class="on" style="height:50%"></i><i class="on" style="height:88%"></i><i class="on" style="height:64%"></i><i class="on" style="height:40%"></i><i class="on" style="height:70%"></i><i class="on" style="height:55%"></i><i class="on" style="height:82%"></i><i class="on" style="height:46%"></i><i class="on" style="height:30%"></i><i style="height:58%"></i><i style="height:72%"></i><i style="height:38%"></i><i style="height:62%"></i><i style="height:26%"></i><i style="height:48%"></i><i style="height:34%"></i><i style="height:18%"></i></div></div>
-      <div class="mo-card-body">
-        <div class="mo-card-meta"><span data-i18n="p4Meta">04 · Frontend</span></div>
-        <h3 class="mo-h3" data-i18n="p4T">Online media player</h3>
-        <p data-i18n="p4D">A browser media player with its own audio pipeline on the Web Audio API.</p>
-        <div class="mo-tags"><span class="mo-tag">React</span><span class="mo-tag">TypeScript</span><span class="mo-tag">Web Audio API</span></div>
-      </div>
-    </article>
-    <article class="mo-card mo-reveal">
-      <div class="mo-shot" aria-hidden="true"><div class="mo-shot-bar"><i></i><i></i><i></i></div><div class="mo-shot-chart"><i style="height:30%"></i><i style="height:44%"></i><i style="height:38%"></i><i style="height:56%"></i><i style="height:48%"></i><i style="height:62%"></i><i style="height:54%"></i><i style="height:70%"></i><i style="height:66%"></i><i class="on" style="height:88%"></i><i style="height:60%"></i><i style="height:74%"></i></div></div>
-      <div class="mo-card-body">
-        <div class="mo-card-meta"><span data-i18n="p5Meta">05 · Fullstack</span></div>
-        <h3 class="mo-h3" data-i18n="p5T">Monitoring dashboard</h3>
-        <p data-i18n="p5D">Live data monitoring: FastAPI streams over WebSocket, PostgreSQL stores, Docker ships it.</p>
-        <div class="mo-tags"><span class="mo-tag">FastAPI</span><span class="mo-tag">PostgreSQL</span><span class="mo-tag">Docker</span><span class="mo-tag">WebSocket</span></div>
-      </div>
-    </article>
     <article class="mo-card mo-reveal" style="justify-content:center;background:var(--surface-100);border-style:dashed">
       <div class="mo-card-body" style="justify-content:center">
-        <div class="mo-card-meta"><span data-i18n="p6Meta">06 · And more</span></div>
+        <div class="mo-card-meta"><span data-i18n="p6Meta">04 · And more</span></div>
         <h3 class="mo-h3 mo-card-title"><a href="https://github.com/Masterofowls?tab=repositories" rel="noopener" data-i18n="p6T">More on GitHub</a></h3>
         <p data-i18n="p6D">Experiments, tools and course projects across web, backend, desktop and testing.</p>
         <div class="mo-card-links"><a class="mo-link" href="https://github.com/Masterofowls?tab=repositories" rel="noopener"><span data-i18n="p6Cta">Browse all</span> <span class="mo-arrow">↗</span></a></div>
@@ -475,8 +469,8 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
 <section class="mo-section" id="education"><div class="mo-container">
   <div class="mo-section-head"><div><span class="mo-eyebrow"><b>06</b> / <span data-i18n="navJourney">Education</span></span><h2 class="mo-h1" data-i18n="journeyTitle">Education.</h2></div></div>
   <ol class="mo-timeline">
-    <li class="mo-tl-item mo-reveal"><span class="mo-tl-date">2023 — 2026</span><div><h3 data-i18n="tl1T">Hexlet IT College</h3><p data-i18n="tl1D">Web development · class of 2026 · secondary vocational education diploma, qualification: Programmer</p></div></li>
-    <li class="mo-tl-item mo-reveal"><span class="mo-tl-date">2021 — 2023</span><div><h3 data-i18n="tl2T">Computer Academy STEP</h3><p data-i18n="tl2D">Software testing · QA engineer diploma</p></div></li>
+    <li class="mo-tl-item mo-reveal"><span class="mo-tl-date">2023 — 2026</span><div><h3><a class="mo-tl-link" href="https://hexly.ru/spb" rel="noopener"><span data-i18n="tl1T">Hexlet IT College</span> <span class="mo-arrow">↗</span></a></h3><p data-i18n="tl1D">Web development · class of 2026 · secondary vocational education diploma, qualification: Programmer</p></div></li>
+    <li class="mo-tl-item mo-reveal"><span class="mo-tl-date">2021 — 2023</span><div><h3><a class="mo-tl-link" href="https://spb.top-academy.ru/" rel="noopener"><span data-i18n="tl2T">STEP Academy (TOP)</span> <span class="mo-arrow">↗</span></a></h3><p data-i18n="tl2D">Software testing · QA engineer diploma</p></div></li>
   </ol>
 </div></section>
 
@@ -484,7 +478,7 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
   <div class="mo-contact mo-reveal">
     <div>
       <span class="mo-eyebrow">07 / <span data-i18n="contactEyebrow">Contact</span></span>
-      <h2 data-i18n="contactTitle">Have a product in mind? Let’s build it.</h2>
+      <h2 data-i18n="contactTitle">Looking for a middle developer? Let’s talk.</h2>
       <div class="mo-row">
         <a class="mo-btn mo-btn-primary" href="mailto:mrdaniilsht@gmail.com">mrdaniilsht@gmail.com</a>
         <a class="mo-btn mo-btn-secondary" href="mailto:mrdaniilsht@gmail.com"><span data-i18n="writeEmail">Write to me</span> <span class="mo-arrow">↗</span></a>
@@ -521,15 +515,16 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
     navCta:'Связаться',
     status:'В фокусе · Россия, UTC+3',
     heroTitle:'Фулстек-приложения: <em>от базы данных до десктопа.</em>',
-    heroLead:'Меня зовут Даниил. Выпускник IT-колледжа Хекслет (2026), специальность — веб-разработка. Практический опыт — учебные проекты и самостоятельная разработка. Есть диплом QA-инженера: применяю навыки тестирования (E2E, API) при разработке. Полный цикл: API и схемы БД, фронтенд, аутентификация, контейнеризация и деплой. Рассматриваю позиции junior fullstack / junior backend.',
+    heroLead:'Меня зовут Даниил, я фулстек-разработчик, выпускник IT-колледжа Хекслет по специальности «веб-разработка» (2026). Рассматриваю позиции middle fullstack и middle backend.',
     photoAlt:'Даниил Штаркман',
     heroCta:'Смотреть проекты',
     termAria:'Терминал: whoami — Даниил Штаркман, фулстек-разработчик; стек по слоям',
     termWho:'Даниил Штаркман — фулстек-разработчик',
     aboutTitle:'Полный цикл разработки.',
-    aboutP1:'Работаю с <strong>полным циклом разработки</strong> — фронтенд и бэкенд, от инициализации проекта до деплоя.',
+    aboutP1:'Работаю с <strong>полным циклом разработки</strong>: API и схемы БД, фронтенд, аутентификация, контейнеризация и деплой.',
+    aboutP3:'Ещё у меня есть <strong>диплом QA-инженера</strong>, поэтому я тестирую то, что пишу: E2E- и API-тесты. Практический опыт — учебные проекты и самостоятельная разработка.',
     aboutP2:'Люблю <strong>сложные задачи</strong>, несу долгосрочную ответственность за то, что выпускаю, и каждый день учусь самостоятельно.',
-    aboutCta:'Обсудить проект',
+    aboutCta:'Связаться со мной',
     svc1T:'Веб-приложения', svc1D:'Интерфейсы, которые остаются быстрыми по мере роста: типизированные, протестированные, адаптивные.',
     svc2T:'API и бэкенд', svc2D:'Сервисы на REST и в реальном времени, модели данных и интеграции.',
     svc3T:'Десктоп и мобильные', svc3D:'Одна кодовая база и нативные оболочки: компактные сборки, работа без сети.',
@@ -550,11 +545,7 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
     p2D:'Проверки в реальном времени, которые показывают, заблокирован ли веб-сервис, недоступен ли он в регионе или просто не работает.',
     p3Meta:'03 · Автоматизация', p3T:'Telegram-бот для сбора данных',
     p3D:'Бот для извлечения данных из Telegram в реальном времени на асинхронном Python.',
-    p4Meta:'04 · Фронтенд', p4T:'Онлайн-медиаплеер',
-    p4D:'Браузерный медиаплеер с собственной обработкой звука на Web Audio API.',
-    p5Meta:'05 · Фулстек', p5T:'Дашборд мониторинга',
-    p5D:'Мониторинг данных в реальном времени: FastAPI передаёт поток по WebSocket, PostgreSQL хранит данные, Docker отвечает за развёртывание.',
-    p6Meta:'06 · И не только', p6T:'Больше проектов на GitHub',
+    p6Meta:'04 · И не только', p6T:'Больше проектов на GitHub',
     p6D:'Эксперименты, инструменты и учебные проекты: веб, бэкенд, десктоп и тестирование.',
     p6Cta:'Смотреть все',
     procTitle:'Софт-скиллы.',
@@ -568,9 +559,9 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
     sgFront:'Фронтенд', sgBack:'Бэкенд', sgDb:'Базы данных', sgOps:'DevOps и системы', sgApps:'Десктоп и мобильные', sgTest:'Тестирование',
     journeyTitle:'Образование.',
     tl1T:'IT-колледж Хекслет', tl1D:'Веб-разработка · выпуск в 2026 году · диплом о среднем профессиональном образовании, профессия «программист»',
-    tl2T:'Компьютерная Академия ШАГ', tl2D:'Тестирование ПО · диплом QA-инженера',
+    tl2T:'Академия ШАГ (ТОП)', tl2D:'Тестирование ПО · диплом QA-инженера',
     contactEyebrow:'Контакты',
-    contactTitle:'Есть идея продукта? Давайте воплотим её.',
+    contactTitle:'Ищете middle-разработчика? Давайте обсудим.',
     writeEmail:'Написать',
     copyright:'© 2026 Даниил Штаркман',
     footAria:'Я в сети',
@@ -581,6 +572,7 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
   };
   var EN={pageTitle:document.title, pageDesc:'', localTime:'local time', menuOpen:'Open menu', menuClose:'Close menu', langAria:'Switch language to Russian'};
   var desc=document.querySelector('meta[name="description"]'); if(desc)EN.pageDesc=desc.getAttribute('content');
+  var canon=document.querySelector('link[rel="canonical"]'), canonBase=canon?canon.getAttribute('href'):'';
   document.querySelectorAll('[data-i18n]').forEach(function(el){var k=el.getAttribute('data-i18n');if(!(k in EN))EN[k]=el.innerHTML});
   document.querySelectorAll('[data-i18n-aria]').forEach(function(el){var k=el.getAttribute('data-i18n-aria');if(!(k in EN))EN[k]=el.getAttribute('aria-label')});
   document.querySelectorAll('[data-i18n-alt]').forEach(function(el){var k=el.getAttribute('data-i18n-alt');if(!(k in EN))EN[k]=el.getAttribute('alt')});
@@ -591,6 +583,7 @@ html[lang="ru"] .mo-display { font-size: 60px; line-height: 64px; }
     lang=l==='ru'?'ru':'en';
     root.setAttribute('lang',lang);
     document.title=t('pageTitle'); if(desc)desc.setAttribute('content',t('pageDesc'));
+    if(canon)canon.setAttribute('href',canonBase+(lang==='ru'?'?lang=ru':''));
     document.querySelectorAll('[data-i18n]').forEach(function(el){el.innerHTML=t(el.getAttribute('data-i18n'))});
     document.querySelectorAll('[data-i18n-aria]').forEach(function(el){el.setAttribute('aria-label',t(el.getAttribute('data-i18n-aria')))});
     document.querySelectorAll('[data-i18n-alt]').forEach(function(el){el.setAttribute('alt',t(el.getAttribute('data-i18n-alt')))});
